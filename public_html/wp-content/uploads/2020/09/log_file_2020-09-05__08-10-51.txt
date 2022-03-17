@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = -1
+Files info:
+Site URL = https://asiath.com
+Data file = /home/u742613684/domains/asiath.com/public_html/wp-content/themes/meup/install_resource/demo_import/demo-content.xml
+Widget file = /home/u742613684/domains/asiath.com/public_html/wp-content/themes/meup/install_resource/demo_import/widgets.wie
+Customizer file = /home/u742613684/domains/asiath.com/public_html/wp-content/themes/meup/install_resource/demo_import/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+---Importing widgets---
+Event Sidebar : 
+
+Image - No Title - Imported
+
+Main Sidebar : 
+
+Custom HTML - No Title - Imported
+Categories - Categories - Imported
+Archives - Archive - Imported
+Recent Posts With Thumbnails - Recent Posts - Imported
+Custom HTML - Instagram - Imported
+Tag Cloud - Tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

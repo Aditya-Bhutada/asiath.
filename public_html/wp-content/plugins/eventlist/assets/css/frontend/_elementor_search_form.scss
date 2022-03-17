@@ -1,0 +1,102 @@
+.elementor_search_form {
+	.wrap_form_search {
+		padding: 0;
+		box-shadow: none;
+		margin: 0;
+		&.type3 {
+			.el_submit_search {
+				margin-top: 0;
+			}
+			&.two_column {
+				form > div {
+					width: 50%;
+					@media (max-width: 768px) {
+						width: 100%;
+					}
+				}
+			}
+			&.three_column {
+				form > div {
+					width: 33.3333%;
+					@media (max-width: 768px) {
+						width: 100%;
+					}
+				}
+			}
+			&.four_column {
+				form > div {
+					width: 25%;
+					@media (max-width: 991.98px) {
+						width: 33.3333%;
+					}
+					@media (max-width: 768px) {
+						width: 100%;
+					}
+				}
+			}
+			&.five_column {
+				form > div {
+					width: 20%;
+					@media (max-width: 991.98px) {
+						width: 33.3333%;
+					}
+					@media (max-width: 768px) {
+						width: 100%;
+					}
+				}
+			}
+		}
+		&.type1 {
+			.field_search:first-child {
+				width: 40%;
+				@media (max-width: 768px) {
+					width: 100%;
+				}
+			}
+			.field_search:nth-last-child(2) {
+				border-right: 0;
+			}
+		}
+		&.type2 {
+			&.two_column {
+				form > div {
+					width: 50%;
+					@media (max-width: 768px) {
+						width: 100%;
+					}
+				}
+			}
+			&.three_column {
+				form > div {
+					width: 33.3333%;
+					@media (max-width: 768px) {
+						width: 100%;
+					}
+				}
+			}
+			&.four_column {
+				form > div {
+					width: 25%;
+					@media (max-width: 991.98px) {
+						width: 33.3333%;
+					}
+					@media (max-width: 768px) {
+						width: 100%;
+					}
+				}
+			}
+			&.five_column {
+				form > div {
+					width: 20%;
+					@media (max-width: 991.98px) {
+						width: 33.3333%;
+					}
+					@media (max-width: 768px) {
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+
+}

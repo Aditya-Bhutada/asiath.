@@ -1,0 +1,6682 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Event List\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-04 08:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/setting/class-el-setting-mail.php:313
+msgid " A new event created: [el_event] "
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:277
+msgid " Edit Full Address:"
+msgstr ""
+
+#: includes/class-el-post-types.php:48
+msgid " Name"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:1219
+#: includes/elementor/class-el-elementor-event-slideshow.php:1228
+msgid "#"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:908
+#: templates/vendor/__edit-event-coupon.php:62
+msgid "$"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:920
+#: templates/vendor/__edit-event-coupon.php:76
+#: includes/admin/views/metaboxes/_coupon.php:66
+#, php-format
+msgid "% of ticket price"
+msgstr ""
+
+#: includes/class-el-ajax.php:2250 templates/elementor/search_map.php:243
+#: templates/search/search-map.php:259
+#, php-format
+msgid "%s Result Found"
+msgstr ""
+
+#: includes/class-el-ajax.php:2252 templates/elementor/search_map.php:245
+#: templates/search/search-map.php:261
+#, php-format
+msgid "%s Results Found"
+msgstr ""
+
+#: templates/author.php:25
+msgid "'s Listing "
+msgstr ""
+
+#: templates/vendor/profile.php:136
+msgid "(+123) 456 7890"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:459
+#: templates/vendor/__edit-event-ticket.php:288
+#: templates/vendor/__edit-event-ticket.php:560
+#: includes/admin/views/metaboxes/_ticket.php:245
+#: includes/admin/views/metaboxes/_ticket.php:528
+msgid "(Color border in ticket)"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:492
+#: templates/vendor/__edit-event-ticket.php:322
+#: templates/vendor/__edit-event-ticket.php:592
+#: includes/admin/views/metaboxes/_ticket.php:279
+#: includes/admin/views/metaboxes/_ticket.php:560
+msgid "(Color content in ticket)"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:476
+#: templates/vendor/__edit-event-ticket.php:305
+#: templates/vendor/__edit-event-ticket.php:576
+#: includes/admin/views/metaboxes/_ticket.php:262
+#: includes/admin/views/metaboxes/_ticket.php:544
+msgid "(Color label in ticket)"
+msgstr ""
+
+#: templates/vendor/__edit-event-gallery.php:66
+msgid "(Ex: https://www.youtube.com/watch?v=5wZ9LcEbulg )"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:170
+#: templates/vendor/__edit-event-basic.php:173
+msgid "(max: 6 tags)"
+msgstr ""
+
+#: includes/class-el-ajax.php:2257 includes/class-el-ajax.php:2263
+#, php-format
+msgid "(Showing %s-%s)"
+msgstr ""
+
+#: templates/elementor/search_map.php:249
+#: templates/elementor/search_map.php:253 templates/search/search-map.php:265
+#: templates/search/search-map.php:269
+#, php-format
+msgid "(Showing 1-%s)"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:111
+msgid "+1 234 567 99"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:88
+msgid "+123 456 7890"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:105
+msgid "--- Select Category ---"
+msgstr ""
+
+#: includes/admin/views/settings/fields/select_woo_page.php:25
+#: includes/admin/views/settings/fields/select_package.php:26
+msgid "--- Select page ---"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:149
+msgid "--- Select Taxonomy ---"
+msgstr ""
+
+#: includes/admin/views/settings/fields/select_page.php:25
+msgid "---Select page---"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:350 templates/cart/cart_info.php:40
+#: templates/cart/cart_info.php:80 templates/vendor/__edit-event-ticket.php:174
+#: includes/admin/views/metaboxes/_ticket.php:134
+msgid "0"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:265
+msgid "06:am, 10:00"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:206
+msgid "1"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:80
+msgid "1 Column"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:918
+#: templates/vendor/__edit-event-ticket.php:190
+#: templates/vendor/__edit-event-ticket.php:222
+#: templates/vendor/__edit-event-coupon.php:73
+#: includes/admin/views/metaboxes/_coupon.php:63
+msgid "10"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:1072
+#: includes/admin/views/metaboxes/metabox-booking.php:391
+#: includes/admin/views/metaboxes/metabox-booking.php:398
+msgid "10.5"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:134
+msgid "10/27/2020"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:147
+msgid "12 Hour"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:200
+msgid "123 Jones Street"
+msgstr ""
+
+#: templates/vendor/profile.php:142
+msgid "123 New York"
+msgstr ""
+
+#: templates/vendor/profile.php:256
+msgid "123456789"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:64
+msgid "2 Column"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:52
+#: includes/elementor/class-el-elementor-search-map.php:81
+msgid "2 Columns"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:101
+msgid "2 columns"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:136
+msgid "2020-10-27"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:135
+msgid "2020/10/27"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:148
+msgid "24 Hour"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:133
+msgid "27-10-2020"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:65
+msgid "3 Column"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:53
+#: includes/elementor/class-el-elementor-search-map.php:82
+msgid "3 Columns"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:102
+msgid "3 columns"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:66
+msgid "4 Column"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:905
+#: templates/vendor/__edit-event-coupon.php:59
+#: includes/admin/views/metaboxes/_coupon.php:51
+msgid "5"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:67
+msgid "5 Column"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:691
+#: templates/vendor/__edit-event-ticket.php:691
+#: templates/vendor/__edit-event-ticket.php:758
+msgid "50.00"
+msgstr ""
+
+#: templates/elementor/search_map.php:235 templates/search/search-map.php:251
+msgid "50km"
+msgstr ""
+
+#: includes/class-el-post-types.php:44 includes/class-el-post-types.php:69
+msgid ": "
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:8
+msgid "A"
+msgstr ""
+
+#: templates/elementor/search_map.php:265 templates/search/search-map.php:281
+msgid "A-Z"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:1066
+#: templates/vendor/__edit-event-ticket.php:747
+#: includes/admin/views/metaboxes/metabox-booking.php:354
+msgid "A1, A2, A3, ..."
+msgstr ""
+
+#: includes/admin/views/settings/display_profit.php:36
+msgid "Account Number"
+msgstr ""
+
+#: templates/vendor/profile.php:255
+msgid "Account number *"
+msgstr ""
+
+#: includes/admin/views/settings/display_profit.php:35
+msgid "Account Owner"
+msgstr ""
+
+#: templates/vendor/profile.php:249
+msgid "Account owner *"
+msgstr ""
+
+#: templates/vendor/__events-table-body.php:196
+#: templates/vendor/__events-table-head.php:32
+#: templates/vendor/mybookings.php:34
+msgid "Action"
+msgstr ""
+
+#: includes/package/class-el-package.php:277
+#: includes/gateways/free/class-el-payment-free.php:23
+#: includes/gateways/woo/class-el-payment-woo.php:165
+#: includes/gateways/offline/class-el-payment-offline.php:23
+msgid "Active"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:288
+#: templates/vendor/__edit-event-basic.php:224
+#: includes/admin/views/metaboxes/_basic.php:156
+#: includes/admin/views/metaboxes/_calendar.php:256
+msgid "Add"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:214
+msgid "Add Additional File Types to be Uploaded"
+msgstr ""
+
+#: templates/single/add_calendar.php:22
+#: templates/vendor/__edit-event-calendar.php:139
+#: includes/admin/views/metaboxes/_calendar.php:110
+msgid "Add Calendar"
+msgstr ""
+
+#: templates/vendor/__edit-event-coupon.php:195
+#: includes/admin/views/metaboxes/_coupon.php:185
+msgid "Add Coupon"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:724
+#: includes/admin/views/metaboxes/_ticket.php:689
+msgid "Add description seat"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:665
+#: includes/admin/views/metaboxes/_ticket.php:633
+msgid "Add description to these seat type:"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:43
+msgid "Add Event"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:114
+msgid "Add field"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:58
+msgid "Add for new user"
+msgstr ""
+
+#: templates/vendor/__edit-event-gallery.php:45
+msgid "Add Gallery"
+msgstr ""
+
+#: includes/class-el-post-types.php:571 includes/class-el-post-types.php:589
+#: includes/class-el-post-types.php:589 includes/class-el-post-types.php:589
+#: templates/vendor/__edit-event-basic.php:363
+#: templates/vendor/__edit-event-basic.php:363 templates/vendor/profile.php:103
+#: templates/vendor/profile.php:103
+msgid "Add image"
+msgstr ""
+
+#: templates/vendor/profile.php:103
+msgid "Add image to profile"
+msgstr ""
+
+#: templates/vendor/__edit-event-gallery.php:45
+#: includes/admin/views/metaboxes/_gallery.php:9
+#: includes/admin/views/metaboxes/_gallery.php:9
+msgid "Add image(s)"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:363
+#: includes/admin/views/metaboxes/_gallery.php:9
+msgid "Add image(s) to gallery"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:385
+msgid "Add Item"
+msgstr ""
+
+#: includes/class-el-post-types.php:111 includes/class-el-post-types.php:165
+#: includes/class-el-post-types.php:217 includes/class-el-post-types.php:268
+#: includes/class-el-post-types.php:319 includes/class-el-post-types.php:370
+msgid "Add New"
+msgstr ""
+
+#: includes/class-el-post-types.php:320
+msgid "Add new booking"
+msgstr ""
+
+#: includes/class-el-post-types.php:430
+msgid "Add New Category"
+msgstr ""
+
+#: includes/class-el-post-types.php:112
+msgid "Add new event"
+msgstr ""
+
+#: includes/class-el-post-types.php:506
+msgid "Add New Location"
+msgstr ""
+
+#: includes/class-el-post-types.php:269
+msgid "Add new membership"
+msgstr ""
+
+#: includes/class-el-post-types.php:218
+msgid "Add new package"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:770
+#: includes/admin/views/metaboxes/_ticket.php:735
+msgid "Add new seat"
+msgstr ""
+
+#: includes/class-el-post-types.php:469
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/class-el-post-types.php:371
+#: templates/vendor/__edit-event-ticket.php:782
+#: includes/admin/views/metaboxes/_ticket.php:748
+msgid "Add new ticket"
+msgstr ""
+
+#: includes/class-el-post-types.php:166
+msgid "Add new venue"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:105
+#: includes/setting/class-el-setting-mail.php:248
+#: includes/setting/class-el-setting-mail.php:355
+#: includes/setting/class-el-setting-mail.php:441
+msgid ""
+"Add recipient's email addresses (use comma seperated to add more email "
+"addresses)"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:736
+#: includes/admin/views/metaboxes/_ticket.php:701
+msgid "Add Seat:"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:340 templates/vendor/profile.php:189
+#: includes/admin/views/metaboxes/_basic.php:124
+msgid "Add Social"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:167
+msgid "Add Ticket and send mail success"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:530
+#: templates/vendor/__edit-event-ticket.php:362
+#: templates/vendor/__edit-event-ticket.php:636
+#: includes/admin/views/metaboxes/_ticket.php:323
+#: includes/admin/views/metaboxes/_ticket.php:604
+msgid "Add ticket logo (.jpg, .png)"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:196
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: includes/class-el-ajax.php:1601
+msgid "Added to membership table"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:151
+#: includes/elementor/class-el-elementor-location-event.php:125
+msgid "Additional Options"
+msgstr ""
+
+#: includes/class-el-ajax.php:1384 includes/user/class-el-user.php:57
+#: templates/shortcode/my_wishlist.php:19
+#: templates/shortcode/my_wishlist.php:42 templates/cart/customer_info.php:50
+#: templates/cart/customer_input.php:79 templates/vendor/tickets.php:119
+#: templates/vendor/tickets.php:182 templates/vendor/tickets.php:218
+#: templates/vendor/profile.php:141
+#: includes/gateways/woo/class-el-payment-woo.php:378
+#: includes/gateways/woo/class-el-payment-woo.php:709
+#: includes/gateways/woo/class-el-payment-woo.php:744
+#: includes/gateways/woo/class-el-payment-woo.php:790
+#: includes/admin/views/metaboxes/metabox-booking.php:127
+#: includes/admin/views/metaboxes/metabox-ticket.php:84
+msgid "Address"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:63
+#: includes/ticket/class-el-column-ticket-manager.php:62
+#: includes/email/el-mail-functions.php:160 templates/vendor/tickets.php:228
+msgid "Address: "
+msgstr ""
+
+#: includes/class-el-post-types.php:318
+msgctxt "Admin menu name"
+msgid "Bookings"
+msgstr ""
+
+#: includes/class-el-post-types.php:110
+msgctxt "Admin menu name"
+msgid "Events"
+msgstr ""
+
+#: includes/class-el-post-types.php:267
+msgctxt "Admin menu name"
+msgid "Memberships"
+msgstr ""
+
+#: includes/class-el-post-types.php:216
+msgctxt "Admin menu name"
+msgid "Packages"
+msgstr ""
+
+#: includes/class-el-post-types.php:369
+msgctxt "Admin menu name"
+msgid "Tickets"
+msgstr ""
+
+#: includes/class-el-post-types.php:164
+msgctxt "Admin menu name"
+msgid "Venues"
+msgstr ""
+
+#: includes/el-core-functions.php:124
+msgid "Afghan afghani"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:153
+msgid "After"
+msgstr ""
+
+#: templates/vendor/profile.php:75
+msgid ""
+"After update to Vendor, you have to register a package to submit event. "
+msgstr ""
+
+#: includes/el-core-functions.php:125
+msgid "Albanian lek"
+msgstr ""
+
+#: includes/el-core-functions.php:164
+msgid "Algerian dinar"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:75
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:97
+msgid "Algorithm not allowed"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:94
+msgid "Algorithm not supported"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:61
+#: includes/elementor/class-el-elementor-button-create-event.php:99
+msgid "Alignment"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:112
+#: includes/elementor/class-el-elementor-event-grid.php:189
+#: includes/elementor/class-el-elementor-name-event-slider.php:85
+#: includes/elementor/class-el-elementor-event-slider.php:131
+#: includes/elementor/class-el-elementor-location-event.php:66
+#: includes/elementor/class-el-elementor-event-slideshow.php:185
+#: templates/elementor/event_grid.php:27
+#: templates/venue/filter_first_letter.php:7
+#: templates/vendor/filter-events-status.php:22
+#: includes/admin/views/settings/display_profit.php:21
+msgid "All"
+msgstr ""
+
+#: includes/class-el-post-types.php:317
+msgid "All Bookings"
+msgstr ""
+
+#: templates/elementor/search_map.php:104
+#: templates/elementor/search_form.php:69 templates/search/search-form.php:60
+#: templates/search/search-map.php:99
+msgid "All Categories ..."
+msgstr ""
+
+#: includes/class-el-ajax.php:470 includes/class-el-ajax.php:483
+#: includes/vendor/class-el-vendor.php:355
+msgid "All Cities"
+msgstr ""
+
+#: includes/class-el-post-types.php:109 includes/class-el-post-types.php:425
+msgid "All Events"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:71
+msgid "All events"
+msgstr ""
+
+#: includes/class-el-post-types.php:501
+msgid "All Locations"
+msgstr ""
+
+#: includes/class-el-post-types.php:215 templates/vendor/heading.php:28
+msgid "All Packages"
+msgstr ""
+
+#: includes/vendor/class-el-vendor.php:270
+msgid "All States"
+msgstr ""
+
+#: includes/class-el-post-types.php:464
+msgid "All Tags"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:983
+#: templates/vendor/__edit-event-coupon.php:140
+#: includes/admin/views/metaboxes/_coupon.php:130
+msgid "All ticket types"
+msgstr ""
+
+#: includes/class-el-post-types.php:368
+msgid "All Tickets"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:42
+#: includes/elementor/class-el-elementor-search-form.php:28
+#: templates/elementor/search_map.php:118
+#: templates/elementor/search_form.php:141 templates/search/search-form.php:132
+#: templates/search/search-map.php:113
+msgid "All Time"
+msgstr ""
+
+#: includes/class-el-post-types.php:163
+msgid "All Venues"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:74
+msgid "Allow active package when Order status: "
+msgstr ""
+
+#: templates/vendor/__edit-event-cancel-booking.php:14
+#: includes/admin/views/metaboxes/_cancel.php:10
+msgid "Allow Cancel Booking"
+msgstr ""
+
+#: includes/setting/class-el-setting-cancel.php:44
+msgid "Allow customers to cancel booking"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:330
+msgid "Allow send email when new user register"
+msgstr ""
+
+#: includes/gateways/woo/class-el-payment-woo.php:180
+msgid "Allow to Add ticket when Order status: "
+msgstr ""
+
+#: includes/gateways/woo/class-el-payment-woo.php:181
+msgid "Allow to add ticket, send ticket to customer's email"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:43
+msgid "Allow to calculate tax in order"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:222
+msgid "Allow to sell tickets"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:72
+msgid "Allow to send an email after a customer books an event successfully"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:232
+#: includes/setting/class-el-setting-mail.php:546
+#: includes/setting/class-el-setting-mail.php:650
+msgid "Allow to send mail"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:80
+msgid "Allow to send profit to vendor about X days after the closed event"
+msgstr ""
+
+#: includes/ticket/class-el-ticket.php:440 includes/api/class-el-api.php:229
+msgid "Already Checked In"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:59
+msgid "Alway"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:929
+msgid "Always"
+msgstr ""
+
+#: includes/el-core-functions.php:128
+msgid "Angolan kwanza"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:516
+#: includes/elementor/class-el-elementor-event-slideshow.php:620
+#: includes/elementor/class-el-elementor-event-slideshow.php:735
+#: includes/elementor/class-el-elementor-event-slideshow.php:851
+msgid "Animate"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:525
+#: includes/elementor/class-el-elementor-event-slideshow.php:544
+#: includes/elementor/class-el-elementor-event-slideshow.php:629
+#: includes/elementor/class-el-elementor-event-slideshow.php:648
+#: includes/elementor/class-el-elementor-event-slideshow.php:744
+#: includes/elementor/class-el-elementor-event-slideshow.php:763
+#: includes/elementor/class-el-elementor-event-slideshow.php:860
+#: includes/elementor/class-el-elementor-event-slideshow.php:879
+msgid "Animation"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:273
+msgid "Animation Speed (ms)"
+msgstr ""
+
+#: templates/cart/discount_button.php:12 templates/vendor/bulk-action.php:13
+#: templates/vendor/bulk-action.php:22 templates/vendor/bulk-action.php:31
+#: templates/vendor/bulk-action.php:40 templates/vendor/bulk-action.php:51
+msgid "Apply"
+msgstr ""
+
+#: templates/global/breadcrumb.php:37
+msgid "Archive by date"
+msgstr ""
+
+#: templates/global/breadcrumb.php:42
+msgid "Archive by month"
+msgstr ""
+
+#: templates/global/breadcrumb.php:99
+msgid "Archive by tag"
+msgstr ""
+
+#: templates/global/breadcrumb.php:46
+msgid "Archive by year"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:55
+msgid "Archive Event Settings"
+msgstr ""
+
+#: includes/el-core-functions.php:129
+msgid "Argentine peso"
+msgstr ""
+
+#: includes/el-core-functions.php:126
+msgid "Armenian dram"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:154
+msgid "Arrange an Ascending or Descending of events with the above conditions"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:364
+#: includes/elementor/class-el-elementor-event-slideshow.php:914
+msgid "Arrows"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:363
+msgid "Arrows and Dots"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:941
+msgid "Arrows Size"
+msgstr ""
+
+#: templates/global/breadcrumb.php:103
+msgid "Articles posted by"
+msgstr ""
+
+#: includes/el-core-functions.php:131
+msgid "Aruban florin"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:142
+#: includes/elementor/class-el-elementor-name-event-slider.php:115
+#: includes/elementor/class-el-elementor-event-slider.php:102
+#: includes/elementor/class-el-elementor-event-slideshow.php:224
+#: includes/setting/class-el-setting-event.php:161
+msgid "Ascending"
+msgstr ""
+
+#: templates/ticket-info.php:17
+msgid "at"
+msgstr ""
+
+#: includes/el-core-functions.php:130
+msgid "Australian dollar"
+msgstr ""
+
+#: templates/vendor/profile.php:95 templates/vendor/profile.php:98
+msgid "author"
+msgstr ""
+
+#: templates/loop/author.php:18
+msgid "author vendor"
+msgstr ""
+
+#: includes/gateways/woo/class-el-payment-woo.php:345
+#: includes/gateways/woo/class-el-payment-woo.php:556
+msgid "auto"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:328
+#: templates/vendor/__edit-event-ticket.php:150
+#: includes/admin/views/metaboxes/_ticket.php:110
+msgid "Auto render if empty"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:209
+#: includes/elementor/class-el-elementor-location-event.php:183
+#: includes/elementor/class-el-elementor-event-slideshow.php:374
+msgid "Autoplay"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:223
+#: includes/elementor/class-el-elementor-location-event.php:197
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:383
+msgid "Autoplay Speed (ms)"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:263
+msgid "Autoplay Timeout (ms)"
+msgstr ""
+
+#: includes/el-core-functions.php:132
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:9
+msgid "B"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:255
+#: includes/elementor/class-el-elementor-button-create-event.php:291
+#: includes/elementor/class-el-elementor-search-form.php:447
+#: includes/elementor/class-el-elementor-search-form.php:478
+msgid "Background Color"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:234
+msgid "Background Overlay"
+msgstr ""
+
+#: includes/el-core-functions.php:143
+msgid "Bahamian dollar"
+msgstr ""
+
+#: includes/el-core-functions.php:137
+msgid "Bahraini dinar"
+msgstr ""
+
+#: includes/el-core-functions.php:135
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: templates/vendor/profile.php:55
+msgid "Bank"
+msgstr ""
+
+#: includes/admin/views/settings/display_profit.php:37
+msgid "Bank Name"
+msgstr ""
+
+#: templates/vendor/profile.php:261
+msgid "Bank Name *"
+msgstr ""
+
+#: includes/el-core-functions.php:134
+msgid "Barbadian dollar"
+msgstr ""
+
+#: templates/vendor/edit-event.php:41
+#: includes/admin/views/metaboxes/metabox.php:8
+msgid "Basic"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:96
+msgid "Basic Infomation"
+msgstr ""
+
+#: includes/admin/metabox/class-el-admin-metabox-basic.php:9
+msgid "Basic Settings"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:152
+msgid "Before"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:556
+msgid "Before x day"
+msgstr ""
+
+#: includes/el-core-functions.php:148
+msgid "Belarusian ruble"
+msgstr ""
+
+#: includes/el-core-functions.php:147
+msgid "Belarusian ruble (old)"
+msgstr ""
+
+#: includes/el-core-functions.php:149
+msgid "Belize dollar"
+msgstr ""
+
+#: includes/el-core-functions.php:139
+msgid "Bermudian dollar"
+msgstr ""
+
+#: includes/el-core-functions.php:145
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: includes/el-core-functions.php:144
+msgid "Bitcoin"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:314
+msgid "Blend Mode"
+msgstr ""
+
+#: templates/global/breadcrumb.php:105
+msgid "Blog"
+msgstr ""
+
+#: includes/el-core-functions.php:552
+msgid "Blogger"
+msgstr ""
+
+#: includes/el-core-functions.php:275
+msgid "Bol&iacute;var soberano"
+msgstr ""
+
+#: includes/el-core-functions.php:141
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: templates/single/ticket_calendar.php:117
+msgid "Book Now"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:167
+#: includes/email/el-mail-functions.php:215
+msgid "Book Ticket Success"
+msgstr ""
+
+#: includes/class-el-post-types.php:316
+msgid "Booking"
+msgstr ""
+
+#: includes/setting/class-el-setting-cancel.php:37
+msgid "Booking Cancellation  Settings"
+msgstr ""
+
+#: includes/class-el-ajax.php:1137
+#: includes/ticket/class-el-column-ticket-manager.php:93
+#: includes/gateways/woo/class-el-payment-woo.php:711
+#: includes/gateways/woo/class-el-payment-woo.php:746
+#: includes/gateways/woo/class-el-payment-woo.php:792
+#: includes/admin/views/metaboxes/metabox-booking.php:36
+#: includes/admin/views/metaboxes/metabox-ticket.php:27
+msgid "Booking ID"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:155
+msgid "Booking ID: "
+msgstr ""
+
+#: templates/cart/cart_info.php:14 templates/cart/cart_info.php:50
+msgid "Booking Information"
+msgstr ""
+
+#: templates/single/act_booking.php:15 templates/single/act_booking.php:23
+msgid "Booking Now"
+msgstr ""
+
+#: includes/admin/metabox/class-el-admin-metabox-booking.php:10
+msgid "Booking order"
+msgstr ""
+
+#: includes/package/class-el-booking-package.php:16
+msgid "Booking Package"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:123
+#: includes/setting/class-el-setting-mail.php:127
+#: includes/setting/class-el-setting-mail.php:137
+#: includes/setting/class-el-setting-mail.php:141
+msgid "Booking Ticket Success"
+msgstr ""
+
+#: includes/class-el-post-types.php:315 templates/vendor/manage_event.php:79
+#: templates/vendor/manage_event_sidebar.php:70
+msgid "Bookings"
+msgstr ""
+
+#: includes/class-el-post-types.php:338
+msgid "Bookings list"
+msgstr ""
+
+#: includes/class-el-post-types.php:337
+msgid "Bookings navigation"
+msgstr ""
+
+#: includes/class-el-post-types.php:356
+msgctxt "Bookings Slug"
+msgid "el_bookings"
+msgstr ""
+
+#: templates/single/bookmark.php:5
+msgid "Bookmark"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:417
+msgid "Border"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:302
+#: includes/elementor/class-el-elementor-search-form.php:489
+msgid "Border Color"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:337
+msgid "Border Radius"
+msgstr ""
+
+#: includes/el-core-functions.php:133
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: includes/el-core-functions.php:146
+msgid "Botswana pula"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:1010
+msgid "Bottom"
+msgstr ""
+
+#: includes/admin/views/settings/display_profit.php:38
+msgid "Branch"
+msgstr ""
+
+#: templates/vendor/profile.php:267
+msgid "Branch *"
+msgstr ""
+
+#: includes/el-core-functions.php:142
+msgid "Brazilian real"
+msgstr ""
+
+#: includes/el-core-functions.php:140
+msgid "Brunei dollar"
+msgstr ""
+
+#: includes/el-core-functions.php:136
+msgid "Bulgarian lev"
+msgstr ""
+
+#: includes/el-core-functions.php:216
+msgid "Burmese kyat"
+msgstr ""
+
+#: includes/el-core-functions.php:138
+msgid "Burundian franc"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:48
+#: includes/elementor/class-el-elementor-button-create-event.php:209
+msgid "Button"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:23
+msgid "Button Create Event"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:190
+msgid "Button ID"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:390
+msgid "Button Search"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:46
+#: includes/admin/views/metaboxes/_ticket.php:26
+msgid "Buy ticket at"
+msgstr ""
+
+#: templates/single/author.php:8
+msgid "By: "
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:10
+msgid "C"
+msgstr ""
+
+#: includes/class-el-ajax.php:1145 templates/single/calendar_export.php:5
+#: templates/vendor/edit-event.php:48 templates/vendor/bookings.php:106
+#: includes/admin/views/metaboxes/metabox.php:15
+msgid "Calendar"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:113
+#: templates/vendor/bookings.php:174 templates/vendor/bookings.php:212
+#: templates/vendor/mybookings.php:29 templates/vendor/mybookings.php:78
+msgid "Calendar Date"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:155
+msgid "Calendar Language"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:45
+#: includes/admin/views/metaboxes/_calendar.php:26
+msgid "Calendar Option:"
+msgstr ""
+
+#: includes/el-core-functions.php:199
+msgid "Cambodian riel"
+msgstr ""
+
+#: includes/class-el-ajax.php:1627
+msgid "Can't add membership"
+msgstr ""
+
+#: includes/ticket/class-el-ticket.php:406 includes/api/class-el-api.php:283
+msgid "Can't update ticket status"
+msgstr ""
+
+#: includes/el-core-functions.php:150
+msgid "Canadian dollar"
+msgstr ""
+
+#: includes/setting/class-el-setting-cancel.php:28
+#: templates/vendor/mybookings.php:143
+msgid "Cancel"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:641
+#: includes/email/el-mail-functions.php:499
+#: includes/email/el-mail-functions.php:542
+#: includes/admin/views/metaboxes/metabox.php:24
+msgid "Cancel Booking"
+msgstr ""
+
+#: templates/vendor/edit-event.php:60
+msgid "Cancel booking"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:501
+msgid "Cancel Booking #[booking_id] Successfully"
+msgstr ""
+
+#: templates/vendor/__edit-event-cancel-booking.php:29
+#: includes/admin/views/metaboxes/_cancel.php:25
+msgid "Cancel booking before x days"
+msgstr ""
+
+#: includes/class-el-ajax.php:2596
+msgid "Cancel Sucessfully"
+msgstr ""
+
+#: templates/vendor/bookings.php:199 templates/vendor/mybookings.php:57
+#: includes/admin/views/metaboxes/metabox-booking.php:89
+msgid "Canceled"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:669
+#: includes/setting/class-el-setting-mail.php:679
+#: includes/setting/class-el-setting-mail.php:683
+msgid "Cancellation Booking"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:116
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:125
+msgid "Cannot handle token prior to "
+msgstr ""
+
+#: includes/el-core-functions.php:159
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:277
+msgid "Cart"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:62
+msgid "Cart page"
+msgstr ""
+
+#: includes/class-el-post-types.php:432 includes/class-el-post-types.php:437
+#: includes/elementor/class-el-elementor-search-map.php:41
+#: includes/elementor/class-el-elementor-search-form.php:27
+#: includes/elementor/class-el-elementor-event-slideshow.php:171
+msgid "Categories"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:95
+#: includes/elementor/class-el-elementor-name-event-slider.php:71
+#: includes/elementor/class-el-elementor-event-slider.php:79
+#: templates/vendor/__edit-event-basic.php:103
+msgid "Category"
+msgstr ""
+
+#: includes/class-el-post-types.php:539
+msgid "Category Color"
+msgstr ""
+
+#: includes/el-core-functions.php:204
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:70
+#: includes/elementor/class-el-elementor-button-create-event.php:107
+#: includes/elementor/class-el-elementor-event-slideshow.php:1049
+msgid "Center"
+msgstr ""
+
+#: includes/el-core-functions.php:279
+msgid "Central African CFA franc"
+msgstr ""
+
+#: templates/vendor/profile.php:130
+#: includes/admin/views/metaboxes/_basic.php:98
+msgid "CEO"
+msgstr ""
+
+#: includes/el-core-functions.php:282
+msgid "CFP franc"
+msgstr ""
+
+#: includes/class-el-ajax.php:421 includes/class-el-ajax.php:446
+#: includes/class-el-ajax.php:446 templates/vendor/__edit-event-gallery.php:31
+#: templates/vendor/__edit-event-gallery.php:31
+#: includes/admin/views/metaboxes/_gallery.php:17
+#: includes/admin/views/metaboxes/_gallery.php:17
+#: includes/admin/views/metaboxes/_gallery.php:17
+msgid "Change image"
+msgstr ""
+
+#: templates/vendor/_package_content.php:113
+msgid "Change Tax"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-package.php:107
+msgid "Change Tax per event"
+msgstr ""
+
+#: templates/vendor/manage_event.php:97
+msgid "Check In"
+msgstr ""
+
+#: templates/vendor/tickets.php:187 templates/vendor/tickets.php:265
+#: templates/vendor/tickets.php:274
+msgid "Check-in"
+msgstr ""
+
+#: templates/vendor/tickets.php:275
+msgid "Check-in at "
+msgstr ""
+
+#: includes/setting/class-el-setting-checkout.php:30
+msgid "Checkout"
+msgstr ""
+
+#: includes/el-core-functions.php:153
+msgid "Chilean peso"
+msgstr ""
+
+#: includes/el-core-functions.php:154
+msgid "Chinese yuan"
+msgstr ""
+
+#: templates/single/ticket_calendar.php:139
+msgid "Choose a date to booking event"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:68
+#: includes/gateways/woo/class-el-payment-woo.php:199
+msgid "Choose a hidden product in Woocommerce"
+msgstr ""
+
+#: templates/vendor/tickets.php:96 templates/vendor/bookings.php:93
+msgid "Choose fields to export"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:143
+msgid "Choose Image"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:28
+#: includes/admin/views/metaboxes/metabox-membership.php:20
+msgid "Choose Package"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:84
+msgid "Choose template of event card"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:168
+msgid "Choose weekend: "
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:260
+msgid "Choosing currency in your country"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:47
+#: includes/elementor/class-el-elementor-search-form.php:33
+msgid "City"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-package.php:33
+#: includes/admin/views/settings/el_custom_checkout_field.php:280
+msgid "Class"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:68
+msgid "Class Icons"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-menu-event-detail.php:38
+msgid "Class Icons Share"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-menu-event-detail.php:47
+msgid "Class Icons Wishlist"
+msgstr ""
+
+#: includes/class-el-assets.php:48 includes/admin/class-el-admin-assets.php:48
+msgid "Clear"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:90
+#: includes/elementor/class-el-elementor-button-create-event.php:91
+msgid "Click here"
+msgstr ""
+
+#: includes/event/class-el-event.php:487
+msgid ""
+"Click here to reload the page or the page will automatically reload after 5 "
+"seconds."
+msgstr ""
+
+#: templates/vendor/profile.php:72
+msgid "Click here:"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:305
+#: templates/vendor/__edit-event-ticket.php:126
+#: includes/admin/views/metaboxes/_ticket.php:86
+msgid "Click to edit ticket name"
+msgstr ""
+
+#: includes/class-eventlist.php:323
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:110
+#: includes/elementor/class-el-elementor-event-grid.php:193
+#: includes/elementor/class-el-elementor-event-slider.php:135
+#: includes/elementor/class-el-elementor-location-event.php:64
+#: includes/event/el-event-functions.php:107
+#: includes/event/class-el-event.php:75 includes/event/class-el-event.php:517
+#: templates/vendor/filter-events-status.php:36
+msgid "Closed"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:245
+msgid "code"
+msgstr ""
+
+#: includes/el-core-functions.php:155
+msgid "Colombian peso"
+msgstr ""
+
+#: includes/class-el-post-types.php:554
+#: includes/elementor/class-el-elementor-search-form.php:287
+#: includes/elementor/class-el-elementor-event-slideshow.php:245
+#: includes/elementor/class-el-elementor-event-slideshow.php:486
+#: includes/elementor/class-el-elementor-event-slideshow.php:588
+#: includes/elementor/class-el-elementor-event-slideshow.php:962
+#: includes/elementor/class-el-elementor-event-slideshow.php:1104
+msgid "Color"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:977
+#: includes/elementor/class-el-elementor-event-slideshow.php:1120
+msgid "Color Hover"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:707
+#: templates/vendor/__edit-event-ticket.php:707
+#: includes/admin/views/metaboxes/_ticket.php:672
+msgid "Color:"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:48
+#: includes/elementor/class-el-elementor-search-map.php:76
+#: includes/elementor/class-el-elementor-search-form.php:60
+#: includes/setting/class-el-setting-event.php:97
+msgid "Column"
+msgstr ""
+
+#: includes/el-core-functions.php:200
+msgid "Comorian franc"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:83
+#: templates/vendor/bookings.php:191 templates/vendor/mybookings.php:47
+#: includes/gateways/woo/class-el-payment-woo.php:189
+#: includes/admin/views/metaboxes/metabox-booking.php:85
+msgid "Completed"
+msgstr ""
+
+#: templates/cart/customer_input.php:55
+msgid "Confirm Email"
+msgstr ""
+
+#: templates/vendor/profile.php:226 templates/vendor/profile.php:230
+msgid "Confirm Password"
+msgstr ""
+
+#: includes/el-core-functions.php:151
+msgid "Congolese franc"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:288
+msgid "Contact"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:476
+#: includes/setting/class-el-setting-mail.php:489
+#: includes/setting/class-el-setting-mail.php:493
+#: includes/email/el-mail-functions.php:346
+msgid "Contact Vendor"
+msgstr ""
+
+#: templates/author_info.php:204
+msgid "Content"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:416
+msgid "Content Width"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:273
+msgid "Control the position of the currency symbol"
+msgstr ""
+
+#: includes/el-core-functions.php:156
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: templates/vendor/edit-event.php:52
+#: includes/admin/views/metaboxes/metabox-booking.php:243
+#: includes/admin/views/metaboxes/metabox.php:18
+msgid "Coupon"
+msgstr ""
+
+#: includes/event/class-el-event.php:421 includes/event/class-el-event.php:499
+msgid "Coupon error"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:408
+msgid "Create And Send Ticket"
+msgstr ""
+
+#: templates/vendor/sidebar.php:71
+msgid "Create Event"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:42
+#: includes/admin/views/metaboxes/_calendar.php:23
+msgid "Create the time of the event"
+msgstr ""
+
+#: includes/package/class-el-column-manage-membership.php:75
+#: templates/vendor/tickets.php:186 templates/vendor/tickets.php:257
+#: includes/admin/views/settings/display_profit.php:39
+msgid "Created"
+msgstr ""
+
+#: includes/el-core-functions.php:182
+msgid "Croatian kuna"
+msgstr ""
+
+#: includes/el-core-functions.php:157
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: includes/el-core-functions.php:158
+msgid "Cuban peso"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:259
+msgid "Currency"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:253
+msgid "Currency options"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:272
+msgid "Currency Position"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:188
+msgid "Current"
+msgstr ""
+
+#: includes/class-el-assets.php:51 includes/admin/class-el-admin-assets.php:51
+msgid "Current Color"
+msgstr ""
+
+#: includes/class-el-setting.php:102 includes/class-el-setting.php:103
+msgid "Custom Checkout Field"
+msgstr ""
+
+#: templates/vendor/manage_event.php:144 templates/vendor/general.php:95
+#: includes/admin/views/settings/report_sales.php:195
+#: includes/admin/views/settings/report_user.php:196
+msgid "Custom:"
+msgstr ""
+
+#: templates/ticket-info.php:33 includes/setting/class-el-setting-mail.php:97
+#: templates/vendor/tickets.php:180 templates/vendor/tickets.php:206
+msgid "Customer"
+msgstr ""
+
+#: includes/ticket/class-el-column-ticket-manager.php:96
+#: includes/admin/views/metaboxes/metabox-booking.php:102
+#: includes/admin/views/metaboxes/metabox-ticket.php:56
+msgid "Customer Name"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:147
+#: includes/setting/class-el-setting-mail.php:289
+#: includes/setting/class-el-setting-mail.php:341
+#: includes/setting/class-el-setting-mail.php:428
+#: includes/setting/class-el-setting-mail.php:500
+msgid "Customers will know them to receive mail from which email address is"
+msgstr ""
+
+#: includes/el-core-functions.php:160
+msgid "Czech koruna"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:11
+msgid "D"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:185
+#: includes/admin/views/metaboxes/_calendar.php:153
+msgid "Daily"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:76
+msgid "Danger"
+msgstr ""
+
+#: includes/el-core-functions.php:162
+msgid "Danish krone"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:118
+#: includes/elementor/class-el-elementor-event-grid.php:127
+#: includes/elementor/class-el-elementor-event-slider.php:115
+#: includes/elementor/class-el-elementor-event-slideshow.php:787
+#: includes/ticket/class-el-column-ticket-manager.php:103
+#: includes/gateways/woo/class-el-payment-woo.php:374
+#: includes/gateways/woo/class-el-payment-woo.php:705
+#: includes/gateways/woo/class-el-payment-woo.php:740
+#: includes/gateways/woo/class-el-payment-woo.php:786
+msgid "Date"
+msgstr ""
+
+#: includes/class-el-ajax.php:1173 includes/class-el-ajax.php:1404
+#: templates/vendor/bookings.php:179 templates/vendor/bookings.php:245
+#: templates/vendor/mybookings.php:32 templates/vendor/mybookings.php:104
+msgid "Date Created"
+msgstr ""
+
+#: templates/vendor/tickets.php:143 templates/vendor/bookings.php:135
+msgid "Date created"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:129
+msgid "Date Format"
+msgstr ""
+
+#: templates/ticket-info.php:49
+msgid "Date time"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:162
+msgid "Date: "
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:194
+#: includes/admin/views/metaboxes/_calendar.php:162
+msgid "day"
+msgstr ""
+
+#: templates/vendor/_package_content.php:43
+msgid "Days"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:195
+#: includes/admin/views/metaboxes/_calendar.php:163
+msgid "days"
+msgstr ""
+
+#: includes/package/class-el-package.php:281
+msgid "Deactive"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:298
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/class-el-assets.php:49 includes/admin/class-el-admin-assets.php:49
+#: includes/elementor/class-el-elementor-button-create-event.php:72
+msgid "Default"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:57
+msgid "Default Package"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:273
+msgid "Default value"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:68
+msgid "Delete Event"
+msgstr ""
+
+#: templates/cart/ticket_type.php:173
+msgid "Delete item to cart"
+msgstr ""
+
+#: templates/vendor/bulk-action.php:38
+#: templates/vendor/__events-table-body.php:165
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/el-core-functions.php:554
+msgid "Delicious"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:143
+#: includes/elementor/class-el-elementor-name-event-slider.php:116
+#: includes/elementor/class-el-elementor-event-slider.php:103
+#: includes/elementor/class-el-elementor-event-slideshow.php:225
+#: includes/setting/class-el-setting-event.php:162
+msgid "Descending"
+msgstr ""
+
+#: templates/single/content.php:13 templates/vendor/__edit-event-basic.php:178
+#: templates/vendor/profile.php:147
+msgid "Description"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:513
+#: templates/vendor/__edit-event-ticket.php:343
+#: templates/vendor/__edit-event-ticket.php:611
+#: includes/admin/views/metaboxes/_ticket.php:299
+#: includes/admin/views/metaboxes/_ticket.php:579
+msgid "Description display at frontend and PDF Ticket"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:613
+#: includes/admin/views/metaboxes/_ticket.php:301
+#: includes/admin/views/metaboxes/_ticket.php:581
+msgid "Description limited 230 character in ticket"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:702
+#: templates/vendor/__edit-event-ticket.php:702
+msgid "Description of type seat"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:696
+#: templates/vendor/__edit-event-ticket.php:696
+#: includes/admin/views/metaboxes/_ticket.php:661
+msgid "Description:"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:119
+msgid "Disable"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:285
+#: includes/admin/views/metaboxes/_calendar.php:253
+msgid "Disable date"
+msgstr ""
+
+#: templates/cart/cart_info.php:28 templates/cart/cart_info.php:67
+msgid "Discount"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:897
+#: templates/vendor/__edit-event-coupon.php:50
+#: includes/admin/views/metaboxes/_coupon.php:42
+msgid "Discount Amount"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:888
+#: templates/cart/discount_button.php:11
+#: templates/vendor/__edit-event-coupon.php:41
+#: includes/admin/views/metaboxes/_coupon.php:33
+msgid "DISCOUNT CODE"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:891
+#: templates/vendor/__edit-event-coupon.php:44
+#: includes/admin/views/metaboxes/_coupon.php:36
+msgid "Discount code must have at least 5 characters"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:55
+msgid "Display"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:124
+msgid "Display Date"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:112
+#: includes/setting/class-el-setting-event.php:125
+msgid "Display in event card"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:216
+msgid "Display in event card. Example: 06:am, 10:00"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:107
+msgid "Display in register account form"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:111
+msgid "Display Price"
+msgstr ""
+
+#: templates/vendor/__edit-event-gallery.php:74
+msgid "Display Top Banner of event detailt at frontend:"
+msgstr ""
+
+#: includes/el-core-functions.php:161
+msgid "Djiboutian franc"
+msgstr ""
+
+#: includes/el-core-functions.php:163
+msgid "Dominican peso"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:605
+#: templates/vendor/__edit-event-ticket.php:447
+#: includes/admin/views/metaboxes/_ticket.php:415
+msgid "Done"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:365
+#: includes/elementor/class-el-elementor-event-slideshow.php:994
+msgid "Dots"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:1038
+msgid "Dots Align"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:1005
+msgid "Dots Position"
+msgstr ""
+
+#: templates/vendor/mybookings.php:133
+msgid "Download"
+msgstr ""
+
+#: templates/vendor/__events-table-body.php:79
+msgid "draft"
+msgstr ""
+
+#: includes/el-core-functions.php:543
+msgid "Dribbble"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:12
+msgid "E"
+msgstr ""
+
+#: templates/authors.php:62 includes/admin/views/metaboxes/_basic.php:92
+msgid "E-mail"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:309
+msgid "E-mail:"
+msgstr ""
+
+#: includes/el-core-functions.php:280
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: includes/class-el-post-types.php:113 includes/class-el-post-types.php:167
+#: includes/class-el-post-types.php:219 includes/class-el-post-types.php:270
+#: includes/class-el-post-types.php:321 includes/class-el-post-types.php:372
+#: templates/cart/cart_info.php:15 templates/cart/cart_info.php:51
+#: templates/vendor/__events-table-body.php:135
+#: includes/admin/views/settings/el_custom_checkout_field.php:131
+#: includes/admin/views/settings/el_custom_checkout_field.php:187
+msgid "Edit"
+msgstr ""
+
+#: includes/class-el-post-types.php:322
+msgid "Edit booking"
+msgstr ""
+
+#: includes/class-el-post-types.php:428
+msgid "Edit Category"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:51
+#: templates/vendor/heading.php:22
+msgid "Edit Event"
+msgstr ""
+
+#: includes/class-el-post-types.php:114
+msgid "Edit event"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:197
+msgid "Edit Full Address:"
+msgstr ""
+
+#: includes/class-el-post-types.php:504
+msgid "Edit Location"
+msgstr ""
+
+#: includes/class-el-post-types.php:271
+msgid "Edit membership"
+msgstr ""
+
+#: includes/class-el-post-types.php:220
+msgid "Edit package"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:259
+msgid "Edit Position"
+msgstr ""
+
+#: templates/vendor/manage_event_sidebar.php:26 templates/vendor/sidebar.php:25
+msgid "Edit Profile"
+msgstr ""
+
+#: includes/class-el-post-types.php:467
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/class-el-post-types.php:373
+msgid "Edit ticket"
+msgstr ""
+
+#: includes/class-el-post-types.php:168
+msgid "Edit venue"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:169
+#: templates/vendor/__edit-event-basic.php:172
+msgid "Education, Sport, Travel"
+msgstr ""
+
+#: includes/el-core-functions.php:165
+msgid "Egyptian pound"
+msgstr ""
+
+#: includes/class-el-ajax.php:1157 templates/author_info.php:200
+#: templates/cart/customer_info.php:30 templates/cart/customer_input.php:39
+#: templates/vendor/login.php:16 templates/vendor/bookings.php:118
+#: templates/vendor/profile.php:123
+#: includes/gateways/woo/class-el-payment-woo.php:377
+#: includes/gateways/woo/class-el-payment-woo.php:708
+#: includes/gateways/woo/class-el-payment-woo.php:743
+#: includes/gateways/woo/class-el-payment-woo.php:789
+#: includes/admin/views/settings/el_custom_checkout_field.php:228
+msgid "Email"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:118
+msgid "Email *"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:160
+#: includes/setting/class-el-setting-mail.php:302
+#: includes/setting/class-el-setting-mail.php:368
+#: includes/setting/class-el-setting-mail.php:455
+#: includes/setting/class-el-setting-mail.php:513
+#: includes/setting/class-el-setting-mail.php:621
+#: includes/setting/class-el-setting-mail.php:703
+msgid "Email Content"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:62
+#: includes/email/el-mail-functions.php:159 templates/vendor/bookings.php:217
+msgid "Email: "
+msgstr ""
+
+#: templates/vendor/__edit-event-gallery.php:65
+msgid "Embed Link Video:"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:91
+msgid "Empty algorithm"
+msgstr ""
+
+#: includes/setting/class-el-setting-cancel.php:43
+#: includes/setting/class-el-setting-mail.php:71
+#: includes/setting/class-el-setting-mail.php:231
+#: includes/setting/class-el-setting-mail.php:329
+#: includes/setting/class-el-setting-mail.php:545
+#: includes/setting/class-el-setting-mail.php:649
+#: includes/setting/class-el-setting-tax.php:42
+#: includes/admin/views/settings/el_custom_checkout_field.php:118
+#: includes/admin/views/settings/el_custom_checkout_field.php:295
+msgid "Enable"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:42
+msgid "Enable Package"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:130
+msgid "Enabled"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:948
+#: templates/vendor/__edit-event-coupon.php:104
+#: includes/admin/views/metaboxes/_coupon.php:94
+msgid "End"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:44
+#: includes/elementor/class-el-elementor-search-form.php:30
+#: includes/package/class-el-booking-package.php:164
+#: includes/package/class-el-booking-package.php:402
+#: includes/package/class-el-booking-package.php:425
+#: includes/package/class-el-booking-package.php:447
+#: includes/package/class-el-column-manage-membership.php:71
+#: templates/elementor/search_map.php:264 templates/search/search-map.php:280
+#: templates/vendor/tickets.php:138
+#: includes/admin/views/settings/display_profit.php:31
+#: includes/admin/views/metaboxes/metabox-ticket.php:115
+msgid "End Date"
+msgstr ""
+
+#: includes/class-el-ajax.php:1400
+#: includes/ticket/class-el-column-ticket-manager.php:102
+#: templates/shortcode/my_wishlist.php:18
+#: templates/shortcode/my_wishlist.php:39 templates/vendor/tickets.php:185
+#: templates/vendor/tickets.php:247
+msgid "End date"
+msgstr ""
+
+#: templates/elementor/search_map.php:143
+#: templates/elementor/search_form.php:172 templates/search/search-form.php:163
+#: templates/search/search-map.php:138
+msgid "End date ..."
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:431
+#: templates/vendor/__edit-event-ticket.php:259
+#: templates/vendor/__edit-event-ticket.php:532
+#: includes/admin/views/metaboxes/_ticket.php:216
+#: includes/admin/views/metaboxes/_ticket.php:500
+msgid "End date for selling tickets"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:763
+#: templates/vendor/__edit-event-calendar.php:93
+#: includes/admin/views/metaboxes/_calendar.php:64
+msgid "End Date:"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-membership.php:58
+msgid "End Date: *"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:249
+msgid "Enter a address in map"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:188
+msgid "Enter a venue"
+msgstr ""
+
+#: templates/cart/discount_button.php:9
+msgid "Enter Discount Code"
+msgstr ""
+
+#: templates/elementor/search_form.php:55 templates/search/search-form.php:45
+msgid "Enter name ..."
+msgstr ""
+
+#: templates/vendor/tickets.php:80
+msgid "Enter some characters in QR Code"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:99
+msgid "Enter title here"
+msgstr ""
+
+#: includes/el-core-functions.php:166
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: includes/api/class-el-api.php:114 includes/api/class-el-api.php:150
+#: includes/api/class-el-api.php:333
+msgid "Error"
+msgstr ""
+
+#: includes/class-el-ajax.php:2604
+msgid "Error Cancellation"
+msgstr ""
+
+#: includes/api/class-el-api.php:81
+msgid "Error make token"
+msgstr ""
+
+#: templates/cart/ticket_type.php:50
+msgid "Error seat duplicate"
+msgstr ""
+
+#: includes/api/class-el-api.php:84
+msgid "Error Something"
+msgstr ""
+
+#: includes/api/class-el-api.php:69
+msgid "Error Username or Password"
+msgstr ""
+
+#: includes/el-core-functions.php:167
+msgid "Ethiopian birr"
+msgstr ""
+
+#: includes/el-core-functions.php:168
+msgid "Euro"
+msgstr ""
+
+#: includes/class-el-ajax.php:1141 includes/class-el-ajax.php:1368
+#: includes/class-el-elementor.php:38 includes/class-el-post-types.php:108
+#: templates/ticket-info.php:41
+#: includes/elementor/class-el-elementor-name-event-slider.php:52
+#: includes/elementor/class-el-elementor-event-slider.php:57
+#: includes/setting/class-el-setting-event.php:30 templates/pdf/template.php:17
+#: templates/vendor/tickets.php:101 templates/vendor/tickets.php:178
+#: templates/vendor/tickets.php:198 templates/vendor/__events-table-head.php:25
+#: templates/vendor/bookings.php:102 templates/vendor/bookings.php:173
+#: templates/vendor/bookings.php:211 templates/vendor/mybookings.php:28
+#: templates/vendor/mybookings.php:71
+#: includes/admin/views/settings/display_profit.php:30
+msgid "Event"
+msgstr ""
+
+#: templates/vendor/heading.php:40
+msgid "Event Bookings"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:1098
+#: templates/single/ticket_calendar.php:63
+#: templates/single/ticket_calendar.php:137
+msgid "Event Calendar"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:63
+msgid "Event Calendar *"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:24
+msgid "Event Category"
+msgstr ""
+
+#: includes/class-el-post-types.php:447
+msgctxt "Event Category Slug"
+msgid "event_cat"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:81
+msgid "Event Filter"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:24
+msgid "Event Grid"
+msgstr ""
+
+#. Name of the plugin
+msgid "Event List"
+msgstr ""
+
+#. Description of the plugin
+msgid "Event List Plugin Allow to manage multiple events with ticket booking."
+msgstr ""
+
+#: includes/class-el-setting.php:111
+msgid "Event List Settings"
+msgstr ""
+
+#: includes/class-el-post-types.php:521
+msgctxt "Event Location Slug"
+msgid "event_loc"
+msgstr ""
+
+#: includes/class-el-roles.php:31
+msgid "Event Manager"
+msgstr ""
+
+#: includes/ticket/class-el-column-ticket-manager.php:94
+#: templates/shortcode/my_wishlist.php:16
+#: templates/shortcode/my_wishlist.php:34
+#: templates/vendor/__edit-event-basic.php:98
+#: includes/admin/views/metaboxes/metabox-ticket.php:46
+msgid "Event Name"
+msgstr ""
+
+#: includes/class-el-ajax.php:2449 templates/archive-event.php:70
+#: templates/elementor/event_grid.php:61
+msgid "Event not found"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:98
+msgid "event number per row"
+msgstr ""
+
+#: includes/class-el-register-widget.php:23
+msgid "Event Sidebar"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:24
+msgid "Event Slider"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:22
+msgid "Event Slideshow"
+msgstr ""
+
+#: includes/class-el-post-types.php:147
+msgctxt "Event Slug"
+msgid "event"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:104
+#: includes/elementor/class-el-elementor-event-grid.php:185
+#: includes/elementor/class-el-elementor-event-slider.php:127
+#: includes/elementor/class-el-elementor-location-event.php:58
+msgid "Event status"
+msgstr ""
+
+#: includes/class-el-post-types.php:484
+msgctxt "Event Tag Slug"
+msgid "event_tag"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:74
+msgid "Event Tax"
+msgstr ""
+
+#: templates/vendor/heading.php:42
+msgid "Event Tickets"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-package.php:28
+msgid "Event Total"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:192
+msgid "Event Type"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:135
+msgid "Event Type:"
+msgstr ""
+
+#: includes/class-el-post-types.php:107
+#: templates/elementor/event_category.php:30
+#: templates/elementor/event_location.php:42
+msgid "Events"
+msgstr ""
+
+#: includes/class-el-post-types.php:130
+msgid "Events list"
+msgstr ""
+
+#: includes/class-el-post-types.php:129
+msgid "Events navigation"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:171
+msgid "Events per page"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:152
+#: includes/admin/views/metaboxes/_calendar.php:123
+msgid "Events start from"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:191
+#: includes/admin/views/metaboxes/_calendar.php:159
+msgid "every"
+msgstr ""
+
+#: includes/cron/class-el-cron.php:60 includes/cron/class-el-cron.php:68
+#, php-format
+msgid "Every % seconds"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_gallery.php:33
+msgid "Ex: https://www.youtube.com/watch?v=YTT62UdAILs"
+msgstr ""
+
+#: templates/vendor/profile.php:124
+#: includes/admin/views/metaboxes/_basic.php:93
+#: includes/admin/views/metaboxes/metabox-booking.php:120
+msgid "example@email.com"
+msgstr ""
+
+#: includes/api/class-el-api.php:322
+msgid "Exception Error"
+msgstr ""
+
+#: templates/vendor/general.php:47
+msgid "Expiration Date"
+msgstr ""
+
+#: templates/vendor/_package_table_user_res.php:13
+msgid "Expiration date"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:131
+msgid "Expired token"
+msgstr ""
+
+#: templates/vendor/_package_content.php:86
+#: includes/admin/views/metaboxes/metabox-package.php:70
+msgid "Export attendees"
+msgstr ""
+
+#: templates/vendor/tickets.php:168 templates/vendor/bookings.php:162
+msgid "Export CSV"
+msgstr ""
+
+#: templates/single/export_ical.php:23
+msgid "Export iCal"
+msgstr ""
+
+#: templates/vendor/_package_content.php:104
+#: includes/admin/views/metaboxes/metabox-package.php:95
+msgid "Export tickets"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:54
+#: includes/admin/views/metaboxes/_ticket.php:34
+msgid "External Link"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:32
+msgid "Extra Large"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:28
+msgid "Extra Small"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:13
+msgid "F"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:301
+#: includes/elementor/class-el-elementor-search-form.php:310
+#: includes/elementor/class-el-elementor-search-form.php:319
+#: includes/elementor/class-el-elementor-search-form.php:328
+#: includes/elementor/class-el-elementor-search-form.php:340
+#: includes/elementor/class-el-elementor-search-form.php:352
+#: includes/elementor/class-el-elementor-search-form.php:364
+#: includes/elementor/class-el-elementor-search-form.php:376
+msgid "fa fa-facebook"
+msgstr ""
+
+#: includes/el-core-functions.php:535
+msgid "Facebook"
+msgstr ""
+
+#: includes/el-core-functions.php:170
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:111
+#: includes/elementor/class-el-elementor-event-grid.php:194
+#: includes/elementor/class-el-elementor-event-slider.php:136
+#: includes/elementor/class-el-elementor-location-event.php:65
+msgid "Featured"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:49
+msgid "Featured:"
+msgstr ""
+
+#: templates/vendor/_package_content.php:66
+#: includes/admin/views/metaboxes/metabox-package.php:47
+msgid "Fee per free ticket"
+msgstr ""
+
+#: templates/vendor/_package_content.php:59
+#: includes/admin/views/metaboxes/metabox-package.php:36
+msgid "Fee per paid ticket"
+msgstr ""
+
+#: templates/cart/customer_input.php:23 templates/cart/customer_input.php:35
+#: templates/cart/customer_input.php:47 templates/cart/customer_input.php:63
+#: templates/cart/customer_input.php:75 templates/cart/customer_input.php:119
+#: templates/cart/payment_gateways.php:11
+msgid "field is required "
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:234
+#: includes/admin/views/metaboxes/_calendar.php:202
+msgid "fifth"
+msgstr ""
+
+#: includes/el-core-functions.php:169
+msgid "Fijian dollar"
+msgstr ""
+
+#: templates/vendor/filter-events-status.php:17
+msgid "Filter"
+msgstr ""
+
+#: includes/class-el-post-types.php:336
+msgid "Filter bookings"
+msgstr ""
+
+#: includes/class-el-post-types.php:128
+#: includes/setting/class-el-setting-event.php:67
+msgid "Filter events"
+msgstr ""
+
+#: includes/class-el-post-types.php:285
+msgid "Filter membership"
+msgstr ""
+
+#: includes/class-el-post-types.php:234
+msgid "Filter package"
+msgstr ""
+
+#: includes/class-el-post-types.php:387
+msgid "Filter ticket"
+msgstr ""
+
+#: includes/class-el-post-types.php:182
+msgid "Filter venues"
+msgstr ""
+
+#: templates/vendor/tickets.php:86
+msgid "Find Ticket"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:230
+#: includes/admin/views/metaboxes/_calendar.php:198
+msgid "first"
+msgstr ""
+
+#: includes/el-core-functions.php:551
+msgid "Flickr"
+msgstr ""
+
+#: templates/vendor/login.php:33
+msgid "Forgot your password?"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:827
+#: templates/vendor/__edit-event-calendar.php:305
+#: includes/admin/views/metaboxes/_calendar.php:273
+msgid "Form:"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-menu-event-price.php:38
+msgid "Format display"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:233
+#: includes/admin/views/metaboxes/_calendar.php:201
+msgid "fourth"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:341
+#: includes/event/el-event-functions.php:215
+#: includes/event/el-event-functions.php:226
+#: templates/single/ticket_info.php:23 templates/single/ticket_info.php:28
+#: templates/vendor/__edit-event-ticket.php:163
+#: includes/gateways/free/class-el-payment-free.php:18
+#: includes/admin/views/metaboxes/_ticket.php:123
+msgid "Free"
+msgstr ""
+
+#: includes/gateways/free/class-el-payment-free.php:12
+msgid "Free - Receive tickets via email"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:211
+#: includes/admin/views/metaboxes/_calendar.php:179
+msgid "Fri"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:181
+msgid "Friday"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:132
+#: includes/setting/class-el-setting-mail.php:273
+#: includes/setting/class-el-setting-mail.php:413
+#: includes/setting/class-el-setting-mail.php:590
+#: includes/setting/class-el-setting-mail.php:674
+msgid "From name"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:778
+#: templates/vendor/__edit-event-calendar.php:106
+#: includes/admin/views/metaboxes/_calendar.php:77
+msgid "From:"
+msgstr ""
+
+#: templates/cart/customer_info.php:20 templates/cart/customer_input.php:27
+msgid "Full Name"
+msgstr ""
+
+#: includes/event/class-el-event.php:408
+msgid "Full Seat"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:14
+msgid "G"
+msgstr ""
+
+#: templates/single/gallery.php:9 templates/vendor/__edit-event-basic.php:376
+#: templates/vendor/__edit-event-gallery.php:79
+#: includes/admin/views/metaboxes/_gallery.php:52
+msgid "Gallery"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox.php:9
+msgid "Gallery & Video"
+msgstr ""
+
+#: includes/el-core-functions.php:176
+msgid "Gambian dalasi"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:26
+#: templates/vendor/heading.php:30 templates/vendor/manage_event_sidebar.php:57
+#: templates/vendor/sidebar.php:44
+msgid "General"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:57
+msgid "General options"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:56
+msgid "General Settings"
+msgstr ""
+
+#: includes/el-core-functions.php:172
+msgid "Georgian lari"
+msgstr ""
+
+#: templates/single/map.php:22
+msgid "Get Direction"
+msgstr ""
+
+#: templates/loop/button.php:3
+msgid "Get Ticket"
+msgstr ""
+
+#: includes/el-core-functions.php:174
+msgid "Ghana cedi"
+msgstr ""
+
+#: includes/el-core-functions.php:175
+msgid "Gibraltar pound"
+msgstr ""
+
+#: templates/vendor/manage_event.php:170 templates/vendor/general.php:120
+#: includes/admin/views/settings/report_sales.php:221
+#: includes/admin/views/settings/report_user.php:222
+msgid "Go"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:121
+msgid "Google API Key Map"
+msgstr ""
+
+#: includes/el-core-functions.php:550
+msgid "Google Drive"
+msgstr ""
+
+#: includes/el-core-functions.php:538
+msgid "Google Plus"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:265
+msgid "Gradient"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:284
+msgid "Gradient Opacity"
+msgstr ""
+
+#: includes/el-core-functions.php:178
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: includes/el-core-functions.php:173
+msgid "Guernsey pound"
+msgstr ""
+
+#: includes/el-core-functions.php:177
+msgid "Guinean franc"
+msgstr ""
+
+#: includes/el-core-functions.php:179
+msgid "Guyanese dollar"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:15
+msgid "H"
+msgstr ""
+
+#: includes/el-core-functions.php:183
+msgid "Haitian gourde"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:133
+msgid "Height"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:288
+msgid "Height Description (px)"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:177
+msgid "Height Image"
+msgstr ""
+
+#: includes/el-core-functions.php:2402
+msgid "HH:MM"
+msgstr ""
+
+#: includes/el-core-functions.php:2402
+msgid "HH:MM PM"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:164
+#: includes/elementor/class-el-elementor-event-grid.php:176
+#: includes/elementor/class-el-elementor-search-map.php:93
+#: includes/elementor/class-el-elementor-search-map.php:105
+#: includes/elementor/class-el-elementor-event-slideshow.php:237
+msgid "Hide"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:1022
+msgid "Hide In Mobile"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:85
+#: includes/gateways/woo/class-el-payment-woo.php:191
+msgid "Hold-on"
+msgstr ""
+
+#: templates/global/breadcrumb.php:6
+msgid "Home"
+msgstr ""
+
+#: includes/el-core-functions.php:181
+msgid "Honduran lempira"
+msgstr ""
+
+#: includes/el-core-functions.php:180
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:272
+#: includes/elementor/class-el-elementor-search-form.php:460
+#: includes/elementor/class-el-elementor-event-slideshow.php:497
+#: includes/elementor/class-el-elementor-event-slideshow.php:600
+#: includes/elementor/class-el-elementor-event-slideshow.php:930
+msgid "Hover"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:316
+msgid "Hover Animation"
+msgstr ""
+
+#: templates/vendor/profile.php:268
+msgid "HSBC"
+msgstr ""
+
+#: templates/vendor/profile.php:262
+msgid "HSBC Bank USA"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:63
+#: templates/vendor/__edit-event-gallery.php:60
+#: includes/admin/views/metaboxes/_ticket.php:43
+msgid "https://"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ovatheme.com"
+msgstr ""
+
+#: includes/el-core-functions.php:184
+msgid "Hungarian forint"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:16
+msgid "I"
+msgstr ""
+
+#: includes/el-core-functions.php:192
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:59
+#: includes/elementor/class-el-elementor-button-create-event.php:138
+#: includes/elementor/class-el-elementor-search-map.php:133
+#: includes/elementor/class-el-elementor-search-form.php:269
+#: includes/elementor/class-el-elementor-event-slideshow.php:715
+#: includes/elementor/class-el-elementor-event-slideshow.php:831
+msgid "Icon"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:299
+msgid "Icon 1"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:308
+msgid "Icon 2"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:317
+msgid "Icon 3"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:326
+msgid "Icon 4"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:338
+msgid "Icon 5"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:350
+msgid "Icon 6"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:362
+msgid "Icon 7"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:374
+msgid "Icon 8"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:148
+msgid "Icon Position"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:133
+msgid "Icon Size"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:164
+msgid "Icon Spacing"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:128
+#: includes/elementor/class-el-elementor-name-event-slider.php:101
+#: includes/elementor/class-el-elementor-event-slider.php:116
+#: includes/setting/class-el-setting-event.php:145
+#: templates/vendor/bookings.php:172 templates/vendor/bookings.php:210
+#: templates/vendor/mybookings.php:27 templates/vendor/mybookings.php:70
+#: templates/vendor/_package_table_user_res.php:11
+msgid "ID"
+msgstr ""
+
+#: templates/vendor/bookings.php:98
+msgid "ID Booking"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:172
+msgid ""
+"If the number of events is greater than this value, the navigation bar "
+"appears"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:60
+msgid ""
+"If Yes: Auto Publish<br/>If No: the Admin will review events before "
+"Publishing"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_ticket.php:20
+msgid "if you don't want to sell ticket, you don't need to make ticket"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:40
+msgid ""
+"if you don't want to sell ticket, you don't need to make ticket. Also you "
+"have to make Calendar tab to sell ticket."
+msgstr ""
+
+#: includes/class-el-post-types.php:587
+#: includes/elementor/class-el-elementor-category-event.php:60
+#: includes/elementor/class-el-elementor-category-event.php:80
+#: includes/elementor/class-el-elementor-location-event.php:100
+#: templates/vendor/__edit-event-gallery.php:77
+msgid "Image"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:350
+msgid "Image Feature"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:359
+#: templates/vendor/__edit-event-ticket.php:633
+#: includes/admin/views/metaboxes/_ticket.php:320
+#: includes/admin/views/metaboxes/_ticket.php:601
+msgid "image ticket"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:151
+msgid "Include Categories"
+msgstr ""
+
+#: includes/el-core-functions.php:188
+msgid "Indian rupee"
+msgstr ""
+
+#: includes/el-core-functions.php:185
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:254
+#: includes/elementor/class-el-elementor-event-slider.php:195
+#: includes/elementor/class-el-elementor-location-event.php:169
+#: includes/elementor/class-el-elementor-event-slideshow.php:396
+msgid "Infinite Loop"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:114
+#: includes/elementor/class-el-elementor-button-create-event.php:73
+#: templates/vendor/bookings.php:175 templates/vendor/bookings.php:213
+msgid "Info"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-membership.php:68
+msgid "Insert -1 for unlimit"
+msgstr ""
+
+#: templates/vendor/profile.php:148
+msgid "Insert Description"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:62
+#: includes/admin/views/metaboxes/_ticket.php:42
+msgid "Insert external link"
+msgstr ""
+
+#: includes/class-el-post-types.php:334
+msgid "Insert into booking"
+msgstr ""
+
+#: includes/class-el-post-types.php:126
+msgid "Insert into event"
+msgstr ""
+
+#: includes/class-el-post-types.php:283
+msgid "Insert into membership"
+msgstr ""
+
+#: includes/class-el-post-types.php:232
+msgid "Insert into package"
+msgstr ""
+
+#: includes/class-el-post-types.php:385
+msgid "Insert into ticket"
+msgstr ""
+
+#: includes/class-el-post-types.php:180
+msgid "Insert into venue"
+msgstr ""
+
+#: includes/el-core-functions.php:542
+msgid "Instagram"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:50
+#: includes/admin/views/metaboxes/_ticket.php:30
+msgid "Internal link"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:86
+msgid "Invalid claims encoding"
+msgstr ""
+
+#: templates/cart/discount_button.php:14
+msgid "Invalid Discount Code"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:83
+msgid "Invalid header encoding"
+msgstr ""
+
+#: includes/el-core-functions.php:190
+msgid "Iranian rial"
+msgstr ""
+
+#: includes/el-core-functions.php:191
+msgid "Iranian toman"
+msgstr ""
+
+#: includes/el-core-functions.php:189
+msgid "Iraqi dinar"
+msgstr ""
+
+#: includes/el-core-functions.php:186
+msgid "Israeli new shekel"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:17
+msgid "J"
+msgstr ""
+
+#: includes/el-core-functions.php:194
+msgid "Jamaican dollar"
+msgstr ""
+
+#: includes/el-core-functions.php:196
+msgid "Japanese yen"
+msgstr ""
+
+#: includes/el-core-functions.php:193
+msgid "Jersey pound"
+msgstr ""
+
+#: includes/user/class-el-user.php:49 templates/vendor/profile.php:129
+#: includes/admin/views/metaboxes/_basic.php:97
+msgid "Job"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:314
+msgid "Job:"
+msgstr ""
+
+#: templates/vendor/profile.php:250
+msgid "John Michael Doe"
+msgstr ""
+
+#: includes/el-core-functions.php:195
+msgid "Jordanian dinar"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:115
+msgid "Justified"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:18
+msgid "K"
+msgstr ""
+
+#: includes/el-core-functions.php:205
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: includes/el-core-functions.php:197
+msgid "Kenyan shilling"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:72
+msgid "Key may not be empty"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:103
+msgid "kid empty, unable to lookup correct key"
+msgstr ""
+
+#: includes/el-core-functions.php:203
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: includes/el-core-functions.php:198
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:19
+msgid "L"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:127
+#: includes/admin/views/settings/el_custom_checkout_field.php:259
+msgid "Label"
+msgstr ""
+
+#: includes/el-core-functions.php:206
+msgid "Lao kip"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:31
+msgid "Large"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:235
+#: includes/admin/views/metaboxes/_calendar.php:203
+msgid "last"
+msgstr ""
+
+#: templates/vendor/manage_event.php:139 templates/vendor/general.php:90
+#: includes/admin/views/settings/report_sales.php:190
+#: includes/admin/views/settings/report_user.php:191
+msgid "Last 7 days"
+msgstr ""
+
+#: templates/vendor/manage_event.php:127 templates/vendor/general.php:78
+#: includes/admin/views/settings/report_sales.php:178
+#: includes/admin/views/settings/report_user.php:179
+msgid "Last Month"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:269
+msgid "Latitude"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:187
+msgid "Latitude Map default"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:179
+msgid "Latitude: "
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:39
+msgid "Layout"
+msgstr ""
+
+#: includes/el-core-functions.php:207
+msgid "Lebanese pound"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:66
+#: includes/elementor/class-el-elementor-button-create-event.php:103
+#: includes/elementor/class-el-elementor-event-slideshow.php:1045
+#: includes/setting/class-el-setting-general.php:280
+msgid "Left"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:282
+msgid "Left with space"
+msgstr ""
+
+#: includes/el-core-functions.php:210
+msgid "Lesotho loti"
+msgstr ""
+
+#: includes/el-core-functions.php:209
+msgid "Liberian dollar"
+msgstr ""
+
+#: includes/el-core-functions.php:211
+msgid "Libyan dinar"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-package.php:20
+msgid "Limited time period"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:554
+#: templates/vendor/__edit-event-ticket.php:394
+#: includes/admin/views/metaboxes/_ticket.php:352
+msgid "Link"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_gallery.php:32
+msgid "Link Video:"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:79
+#: includes/gateways/woo/class-el-payment-woo.php:942
+msgid "Link:"
+msgstr ""
+
+#: includes/el-core-functions.php:545
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:74
+msgid "List & send profit to vendor<br/>Check in Manage wallet"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:215
+msgid ""
+"List Additional File Types <a target=\"_blank\" href=\"https://codex."
+"wordpress.org/Function_Reference/get_allowed_mime_types\">here</a><br/>"
+"Example: zip, pdf"
+msgstr ""
+
+#: templates/vendor/_package_content.php:77
+msgid "List attendees"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-package.php:58
+msgid "List of attendees"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-package.php:83
+msgid "List of tickets"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:297
+#: includes/elementor/class-el-elementor-search-form.php:245
+msgid "List Taxonomy Custom"
+msgstr ""
+
+#: templates/vendor/_package_content.php:95
+msgid "List tickets"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-location-event.php:91
+#: includes/elementor/class-el-elementor-search-map.php:40
+#: templates/elementor/search_map.php:84 templates/search/search-map.php:79
+msgid "Location"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-location-event.php:23
+msgid "Location Event"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:26
+msgid "Location Input"
+msgstr ""
+
+#: includes/class-el-post-types.php:508
+msgid "Locations"
+msgstr ""
+
+#: templates/vendor/login.php:20
+msgid "Log In"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:60
+msgid "Login"
+msgstr ""
+
+#: includes/api/class-el-api.php:79
+msgid "Login success"
+msgstr ""
+
+#: templates/vendor/sidebar.php:129
+msgid "Logout"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:201
+msgid "Longitude Map default"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:184
+msgid "Longitude: "
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:264
+msgid "Longtitude"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:20
+msgid "M"
+msgstr ""
+
+#: includes/el-core-functions.php:218
+msgid "Macanese pataca"
+msgstr ""
+
+#: includes/el-core-functions.php:215
+msgid "Macedonian denar"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:28
+msgid "Mail"
+msgstr ""
+
+#: templates/vendor/heading.php:24 templates/vendor/heading.php:26
+msgid "Make new a event"
+msgstr ""
+
+#: includes/el-core-functions.php:214
+msgid "Malagasy ariary"
+msgstr ""
+
+#: includes/el-core-functions.php:222
+msgid "Malawian kwacha"
+msgstr ""
+
+#: includes/el-core-functions.php:224
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: includes/el-core-functions.php:221
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:85
+msgid "Manage Bookings"
+msgstr ""
+
+#: includes/event/class-el-column-event.php:17
+#: includes/event/class-el-column-event.php:34 templates/vendor/heading.php:38
+#: templates/vendor/__events-table-body.php:204
+msgid "Manage Event"
+msgstr ""
+
+#: includes/class-el-post-types.php:264
+msgid "Manage Membership"
+msgstr ""
+
+#: includes/class-el-post-types.php:265
+msgid "Manage Memberships"
+msgstr ""
+
+#: includes/class-el-post-types.php:287
+msgid "Manage Memberships list"
+msgstr ""
+
+#: includes/class-el-post-types.php:286
+msgid "Manage Memberships navigation"
+msgstr ""
+
+#: includes/class-el-post-types.php:305
+msgctxt "Manage Memberships Slug"
+msgid "manage_membership"
+msgstr ""
+
+#: includes/class-el-setting.php:93 includes/class-el-setting.php:94
+msgid "Manage Payouts"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:93
+msgid "Manage Tickets"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:46
+#: includes/admin/views/metaboxes/metabox-booking.php:263
+#: includes/admin/views/metaboxes/_calendar.php:27
+msgid "Manual"
+msgstr ""
+
+#: includes/el-core-functions.php:187
+msgid "Manx pound"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:99
+#: includes/ticket/class-el-ticket.php:94 templates/single/map.php:19
+#: templates/elementor/search_map.php:44 templates/search/search-map.php:40
+#: templates/vendor/__edit-event-ticket.php:99
+#: includes/admin/views/metaboxes/_ticket.php:61
+msgid "Map"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_ticket.php:428
+msgid "Map Shortcode"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:460
+msgid "Map Shortcode - Contact Admin to get shortcode"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:474
+#: includes/elementor/class-el-elementor-event-slideshow.php:576
+#: includes/elementor/class-el-elementor-event-slideshow.php:679
+#: includes/elementor/class-el-elementor-event-slideshow.php:795
+msgid "Margin"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:1089
+msgid "Margin Dot"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:159
+#: includes/elementor/class-el-elementor-location-event.php:133
+msgid "Margin Right Items"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:129
+msgid "Marker Select"
+msgstr ""
+
+#: includes/el-core-functions.php:219
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: includes/el-core-functions.php:220
+msgid "Mauritian rupee"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-menu-event-price.php:43
+#: includes/setting/class-el-setting-event.php:116
+msgid "Max"
+msgstr ""
+
+#: templates/cart/ticket_type.php:247
+msgid "Max number seat is "
+msgstr ""
+
+#: templates/cart/ticket_type.php:169
+msgid "Max number ticket is "
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:388
+#: templates/vendor/__edit-event-ticket.php:214
+#: templates/vendor/__edit-event-ticket.php:489
+#: includes/admin/views/metaboxes/_ticket.php:172
+#: includes/admin/views/metaboxes/_ticket.php:457
+msgid "Maximum "
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:86
+#: includes/setting/class-el-setting-role.php:94
+msgid "May override by Package of vendor"
+msgstr ""
+
+#: templates/single/related.php:11
+msgid "May you like events"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:30
+msgid "Medium"
+msgstr ""
+
+#: includes/admin/metabox/class-el-admin-metabox-membership.php:8
+msgid "Membership Fields"
+msgstr ""
+
+#: includes/package/class-el-booking-package.php:399
+#: includes/package/class-el-booking-package.php:422
+#: includes/package/class-el-booking-package.php:444
+msgid "Membership ID"
+msgstr ""
+
+#: templates/vendor/general.php:39
+msgid "Membership Report"
+msgstr ""
+
+#: includes/class-el-post-types.php:266
+msgid "Memberships"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-menu-event-price.php:23
+msgid "Menu event price"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-menu-event-detail.php:23
+msgid "Menu Title event detail"
+msgstr ""
+
+#: includes/class-el-ajax.php:1031
+msgid "Message"
+msgstr ""
+
+#: includes/el-core-functions.php:223
+msgid "Mexican peso"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:1011
+msgid "Middle"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-menu-event-price.php:42
+#: includes/setting/class-el-setting-event.php:115
+msgid "Min"
+msgstr ""
+
+#: templates/cart/ticket_type.php:248
+msgid "Min number seat is "
+msgstr ""
+
+#: templates/cart/ticket_type.php:132
+msgid "Min number ticket is "
+msgstr ""
+
+#: includes/elementor/class-el-elementor-menu-event-price.php:44
+#: includes/setting/class-el-setting-event.php:117
+msgid "Min to Max"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:373
+#: templates/vendor/__edit-event-ticket.php:198
+#: templates/vendor/__edit-event-ticket.php:473
+#: includes/admin/views/metaboxes/_ticket.php:157
+#: includes/admin/views/metaboxes/_ticket.php:441
+msgid "Minimum "
+msgstr ""
+
+#: includes/el-core-functions.php:213
+msgid "Moldovan leu"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:207
+#: includes/admin/views/metaboxes/_calendar.php:175
+msgid "Mon"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:177
+msgid "Monday"
+msgstr ""
+
+#: includes/el-core-functions.php:217
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:198
+#: includes/admin/views/metaboxes/_calendar.php:166
+msgid "month on the"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:187
+#: includes/admin/views/metaboxes/_calendar.php:155
+msgid "Monthly"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:199
+#: includes/admin/views/metaboxes/_calendar.php:167
+msgid "months on the"
+msgstr ""
+
+#: includes/el-core-functions.php:212
+msgid "Moroccan dirham"
+msgstr ""
+
+#: includes/el-core-functions.php:225
+msgid "Mozambican metical"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:95
+msgid "My Account page"
+msgstr ""
+
+#: templates/vendor/heading.php:32 templates/vendor/sidebar.php:98
+msgid "My Bookings"
+msgstr ""
+
+#: templates/vendor/heading.php:12 templates/vendor/heading.php:44
+#: templates/vendor/manage_event_sidebar.php:45 templates/vendor/sidebar.php:58
+msgid "My Listings"
+msgstr ""
+
+#: templates/vendor/heading.php:20
+msgid "My Pass Events"
+msgstr ""
+
+#: templates/vendor/heading.php:16
+msgid "My Pending Events"
+msgstr ""
+
+#: templates/vendor/heading.php:36 templates/vendor/sidebar.php:121
+msgid "My Profile"
+msgstr ""
+
+#: templates/vendor/heading.php:14
+msgid "My Publish Events"
+msgstr ""
+
+#: templates/vendor/heading.php:18
+msgid "My Trash Events"
+msgstr ""
+
+#: templates/vendor/sidebar.php:110
+msgid "My WishList"
+msgstr ""
+
+#: templates/vendor/heading.php:34
+msgid "My Wishlist"
+msgstr ""
+
+#: includes/el-core-functions.php:546
+msgid "Myspace"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:21
+msgid "N"
+msgstr ""
+
+#: includes/class-el-ajax.php:1149 includes/class-el-ajax.php:1376
+#: templates/author_info.php:199 templates/vendor/profile.php:117
+#: includes/gateways/woo/class-el-payment-woo.php:375
+#: includes/gateways/woo/class-el-payment-woo.php:706
+#: includes/gateways/woo/class-el-payment-woo.php:741
+#: includes/gateways/woo/class-el-payment-woo.php:787
+#: includes/admin/views/settings/el_custom_checkout_field.php:125
+#: includes/admin/views/settings/el_custom_checkout_field.php:251
+#: includes/admin/views/metaboxes/_basic.php:82
+#: includes/admin/views/metaboxes/metabox-booking.php:100
+msgid "Name"
+msgstr ""
+
+#: templates/vendor/tickets.php:109 templates/vendor/bookings.php:110
+msgid "Name Customer"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:39
+#: includes/elementor/class-el-elementor-search-form.php:25
+msgid "Name Event"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:20
+msgid "Name Event Slider"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:154
+msgid "Name Event: "
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:83
+msgid "Name Organizer"
+msgstr ""
+
+#: includes/admin/views/settings/display_profit.php:34
+msgid "Name vendor"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:299
+msgid "Name:"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:60
+#: includes/email/el-mail-functions.php:157 templates/vendor/bookings.php:215
+msgid "Name: "
+msgstr ""
+
+#: includes/el-core-functions.php:226
+msgid "Namibian dollar"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:359
+#: includes/elementor/class-el-elementor-event-slideshow.php:903
+msgid "Navigation"
+msgstr ""
+
+#: templates/elementor/search_map.php:260 templates/search/search-map.php:276
+msgid "Nearest"
+msgstr ""
+
+#: includes/el-core-functions.php:230
+msgid "Nepalese rupee"
+msgstr ""
+
+#: includes/el-core-functions.php:127
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: includes/class-el-post-types.php:323
+msgid "New booking"
+msgstr ""
+
+#: includes/class-el-post-types.php:431
+msgid "New Category"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:222
+#: includes/setting/class-el-setting-mail.php:265
+#: includes/setting/class-el-setting-mail.php:268
+#: includes/setting/class-el-setting-mail.php:278
+#: includes/setting/class-el-setting-mail.php:282
+#: includes/email/el-mail-functions.php:257
+#: includes/email/el-mail-functions.php:294
+msgid "New Event"
+msgstr ""
+
+#: includes/class-el-post-types.php:115
+msgid "New event"
+msgstr ""
+
+#: includes/class-el-post-types.php:507
+msgid "New Location"
+msgstr ""
+
+#: includes/class-el-post-types.php:272
+msgid "New membership"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:64
+msgid "New Order"
+msgstr ""
+
+#: includes/class-el-post-types.php:221
+msgid "New package"
+msgstr ""
+
+#: templates/vendor/profile.php:217 templates/vendor/profile.php:221
+msgid "New Password"
+msgstr ""
+
+#: includes/class-el-post-types.php:470
+msgid "New Tag"
+msgstr ""
+
+#: includes/el-core-functions.php:267
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: includes/class-el-post-types.php:374
+msgid "New ticket"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:323
+msgid "New User/Vendor"
+msgstr ""
+
+#: includes/class-el-post-types.php:169
+msgid "New venue"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:249
+#: templates/vendor/__edit-event-basic.php:253
+#: includes/admin/views/metaboxes/metabox-booking.php:129
+msgid "New York, NY, USA"
+msgstr ""
+
+#: includes/el-core-functions.php:231
+msgid "New Zealand dollar"
+msgstr ""
+
+#: templates/elementor/search_map.php:261 templates/search/search-map.php:277
+msgid "Newest First"
+msgstr ""
+
+#: includes/el-core-functions.php:1139 includes/el-core-functions.php:1424
+#: templates/pagination.php:19 templates/author.php:100
+#: templates/cart/next_step_button.php:11
+msgid "Next"
+msgstr ""
+
+#: templates/elementor/search_map.php:124
+#: templates/elementor/search_form.php:147 templates/search/search-form.php:138
+#: templates/search/search-map.php:119
+msgid "Next Month"
+msgstr ""
+
+#: templates/elementor/search_map.php:123
+#: templates/elementor/search_form.php:146 templates/search/search-form.php:137
+#: templates/search/search-map.php:118
+msgid "Next Week"
+msgstr ""
+
+#: includes/el-core-functions.php:228
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: includes/el-core-functions.php:227
+msgid "Nigerian naira"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:599
+#: includes/elementor/class-el-elementor-category-event.php:125
+#: includes/elementor/class-el-elementor-event-slider.php:185
+#: includes/elementor/class-el-elementor-event-slider.php:200
+#: includes/elementor/class-el-elementor-event-slider.php:214
+#: includes/elementor/class-el-elementor-location-event.php:79
+#: includes/elementor/class-el-elementor-location-event.php:159
+#: includes/elementor/class-el-elementor-location-event.php:174
+#: includes/elementor/class-el-elementor-location-event.php:188
+#: includes/elementor/class-el-elementor-event-slideshow.php:201
+#: includes/elementor/class-el-elementor-event-slideshow.php:1026
+#: includes/setting/class-el-setting-mail.php:80
+#: includes/setting/class-el-setting-mail.php:239
+#: includes/setting/class-el-setting-mail.php:334
+#: includes/setting/class-el-setting-mail.php:549
+#: includes/setting/class-el-setting-mail.php:653
+#: includes/setting/class-el-setting-package.php:51
+#: includes/setting/class-el-setting-tax.php:51
+#: includes/setting/class-el-setting-general.php:195
+#: includes/setting/class-el-setting-general.php:207
+#: includes/setting/class-el-setting-general.php:226
+#: includes/setting/class-el-setting-general.php:237
+#: includes/setting/class-el-setting-event.php:220
+#: includes/setting/class-el-setting-event.php:257
+#: includes/setting/class-el-setting-event.php:269
+#: includes/setting/class-el-setting-event.php:281
+#: templates/vendor/__edit-event-ticket.php:441
+#: templates/vendor/__edit-event-cancel-booking.php:22
+#: includes/gateways/free/class-el-payment-free.php:31
+#: includes/gateways/free/class-el-payment-free.php:45
+#: includes/gateways/woo/class-el-payment-woo.php:173
+#: includes/gateways/offline/class-el-payment-offline.php:31
+#: includes/gateways/offline/class-el-payment-offline.php:44
+#: includes/admin/views/metaboxes/metabox-package.php:63
+#: includes/admin/views/metaboxes/metabox-package.php:75
+#: includes/admin/views/metaboxes/metabox-package.php:88
+#: includes/admin/views/metaboxes/metabox-package.php:100
+#: includes/admin/views/metaboxes/metabox-package.php:112
+#: includes/admin/views/metaboxes/_basic.php:52
+#: includes/admin/views/metaboxes/_cancel.php:18
+#: includes/admin/views/metaboxes/_ticket.php:410
+msgid "No"
+msgstr ""
+
+#: templates/authors.php:77
+msgid "No authors found"
+msgstr ""
+
+#: includes/class-el-post-types.php:327
+msgid "No bookings found"
+msgstr ""
+
+#: includes/class-el-post-types.php:328
+msgid "No bookings found in trash"
+msgstr ""
+
+#: includes/class-el-post-types.php:119
+msgid "No events found"
+msgstr ""
+
+#: includes/class-el-post-types.php:120
+msgid "No events found in trash"
+msgstr ""
+
+#: includes/class-el-post-types.php:276
+msgid "No memberships found"
+msgstr ""
+
+#: includes/class-el-post-types.php:277
+msgid "No memberships found in trash"
+msgstr ""
+
+#: includes/class-el-post-types.php:225
+msgid "No packages found"
+msgstr ""
+
+#: includes/class-el-post-types.php:226
+msgid "No packages found in trash"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:91
+#: includes/admin/views/metaboxes/_ticket.php:57
+msgid "No Seat"
+msgstr ""
+
+#: includes/class-el-post-types.php:378
+msgid "No tickets found"
+msgstr ""
+
+#: includes/class-el-post-types.php:379
+msgid "No tickets found in trash"
+msgstr ""
+
+#: includes/class-el-post-types.php:173
+msgid "No venues found"
+msgstr ""
+
+#: includes/class-el-post-types.php:174
+msgid "No venues found in trash"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:366
+msgid "None"
+msgstr ""
+
+#: includes/ticket/class-el-column-ticket-manager.php:49
+#: templates/vendor/tickets.php:213
+msgid "none"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:236
+#: includes/elementor/class-el-elementor-search-form.php:428
+#: includes/elementor/class-el-elementor-event-slideshow.php:317
+msgid "Normal"
+msgstr ""
+
+#: includes/el-core-functions.php:201
+msgid "North Korean won"
+msgstr ""
+
+#: includes/el-core-functions.php:229
+msgid "Norwegian krone"
+msgstr ""
+
+#: includes/package/class-el-package.php:295
+msgid "not found"
+msgstr ""
+
+#: templates/vendor/bookings.php:254 templates/vendor/mybookings.php:152
+msgid "Not Found Bookings"
+msgstr ""
+
+#: templates/author.php:86 templates/vendor/__events-table-body.php:217
+msgid "Not Found Event"
+msgstr ""
+
+#: includes/class-el-ajax.php:2229 templates/elementor/search_map.php:303
+#: templates/search/search-result.php:37 templates/search/search-map.php:320
+msgid "Not found event"
+msgstr ""
+
+#: includes/admin/views/settings/display_profit.php:134
+msgid "Not Found Events"
+msgstr ""
+
+#: templates/single-venue.php:81
+msgid "Not found events"
+msgstr ""
+
+#: includes/api/class-el-api.php:297
+msgid "Not Found QR Code"
+msgstr ""
+
+#: includes/ticket/class-el-ticket.php:354
+msgid "Not found ticket"
+msgstr ""
+
+#: templates/vendor/tickets.php:290
+msgid "Not Found Tickets"
+msgstr ""
+
+#: includes/gateways/free/class-el-payment-free.php:38
+msgid "Note only displays when booking a free ticket"
+msgstr ""
+
+#: templates/vendor/profile.php:77
+msgid "Note: You can't downgrade after update to vendor role."
+msgstr ""
+
+#: includes/elementor/class-el-elementor-menu-event-detail.php:56
+msgid "Number Character"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:306
+msgid "Number of Decimals"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:359
+#: templates/vendor/__edit-event-ticket.php:183
+#: includes/admin/views/metaboxes/_ticket.php:143
+msgid "number of tickets"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:374
+#: includes/admin/class-el-admin-ajax.php:389
+#: templates/vendor/__edit-event-ticket.php:199
+#: templates/vendor/__edit-event-ticket.php:215
+#: templates/vendor/__edit-event-ticket.php:474
+#: templates/vendor/__edit-event-ticket.php:490
+#: includes/admin/views/metaboxes/_ticket.php:158
+#: includes/admin/views/metaboxes/_ticket.php:173
+#: includes/admin/views/metaboxes/_ticket.php:442
+#: includes/admin/views/metaboxes/_ticket.php:458
+msgid "number of tickets for one purchase"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:302
+msgid "Number related event"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:22
+msgid "O"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:250
+#: includes/admin/views/metaboxes/_calendar.php:218
+msgid "of each month"
+msgstr ""
+
+#: includes/gateways/offline/class-el-payment-offline.php:12
+#: includes/gateways/offline/class-el-payment-offline.php:18
+msgid "Offline"
+msgstr ""
+
+#: templates/vendor/profile.php:207 templates/vendor/profile.php:211
+msgid "Old Password"
+msgstr ""
+
+#: templates/elementor/search_map.php:262 templates/search/search-map.php:278
+msgid "Oldest First"
+msgstr ""
+
+#: includes/el-core-functions.php:232
+msgid "Omani rial"
+msgstr ""
+
+#: includes/ticket/class-el-ticket.php:62 templates/single/address.php:12
+#: templates/loop/location.php:11 templates/vendor/__edit-event-basic.php:203
+#: includes/admin/views/metaboxes/_basic.php:140
+msgid "Online"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:40
+msgid "online"
+msgstr ""
+
+#: includes/event/class-el-event.php:302
+msgid "Online booking closed"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:893
+#: templates/vendor/__edit-event-coupon.php:46
+#: includes/admin/views/metaboxes/_coupon.php:38
+msgid "Only alphanumeric characters allowed (A-Z and 0-9)"
+msgstr ""
+
+#: includes/class-el-register-widget.php:25
+msgid "Only display in Single Event"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:198
+msgid "Only Featured"
+msgstr ""
+
+#: templates/vendor/filter-events-status.php:29
+msgid "Open"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:88
+#: includes/event/el-event-functions.php:105
+#: includes/event/class-el-event.php:73 includes/event/class-el-event.php:515
+msgid "Opening"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:87
+msgid "Opening & Upcoming"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:73
+msgid "Opening & Upcoming events"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:74
+msgid "Opening events"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:236
+msgid "Options"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:910
+#: templates/vendor/__edit-event-coupon.php:64
+#: includes/admin/views/metaboxes/_coupon.php:54
+msgid "or"
+msgstr ""
+
+#: templates/vendor/__edit-event-gallery.php:68
+msgid "or Vimeo: https://player.vimeo.com/video/23534361"
+msgstr ""
+
+#: templates/archive-venue.php:34
+#: includes/elementor/class-el-elementor-event-slideshow.php:221
+#: includes/setting/class-el-setting-event.php:153
+msgid "Order"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:208
+#: includes/setting/class-el-setting-event.php:136
+msgid "Order By"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:137
+msgid "Order by these condition"
+msgstr ""
+
+#: templates/pdf/template.php:55
+msgid "Order Info"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:138
+#: includes/elementor/class-el-elementor-name-event-slider.php:111
+#: includes/elementor/class-el-elementor-event-slider.php:98
+msgid "Order Post"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:123
+#: includes/elementor/class-el-elementor-name-event-slider.php:97
+#: includes/elementor/class-el-elementor-event-slider.php:111
+msgid "OrderBy Post"
+msgstr ""
+
+#: includes/ticket/class-el-pdf.php:55
+msgid "Ordered by"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:562
+#: templates/vendor/__edit-event-ticket.php:402
+#: includes/admin/views/metaboxes/_ticket.php:366
+msgid "Other info"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:86
+#: includes/gateways/woo/class-el-payment-woo.php:942
+msgid "Other info:"
+msgstr ""
+
+#. Author of the plugin
+#. Author URI of the plugin
+msgid "ovatheme.com"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:291
+msgid "Overwrite Your Profile Info"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:23
+msgid "P"
+msgstr ""
+
+#: includes/class-el-post-types.php:213 includes/class-el-post-types.php:214
+#: includes/admin/class-el-admin-user.php:30
+#: includes/admin/class-el-admin-user.php:57
+#: includes/elementor/class-el-elementor-package.php:13
+#: includes/setting/class-el-setting-package.php:28
+#: includes/package/class-el-booking-package.php:162
+#: includes/package/class-el-booking-package.php:400
+#: includes/package/class-el-booking-package.php:423
+#: includes/package/class-el-booking-package.php:445
+#: includes/package/class-el-column-manage-membership.php:69
+#: templates/vendor/__event_info.php:61
+#: templates/vendor/_package_table_user_res.php:12
+#: templates/vendor/sidebar.php:84 includes/admin/views/metaboxes/_basic.php:25
+#: includes/admin/views/metaboxes/metabox-membership.php:17
+msgid "Package"
+msgstr ""
+
+#: includes/admin/metabox/class-el-admin-metabox-package.php:10
+msgid "Package Fields"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-package.php:5
+msgid "Package ID: *"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:37
+msgid "Package Settings"
+msgstr ""
+
+#: includes/class-el-post-types.php:236
+msgid "Packages list"
+msgstr ""
+
+#: includes/class-el-post-types.php:235
+msgid "Packages navigation"
+msgstr ""
+
+#: includes/class-el-post-types.php:254
+msgctxt "Packages Slug"
+msgid "package"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:157
+#: includes/elementor/class-el-elementor-button-create-event.php:357
+#: includes/elementor/class-el-elementor-event-slideshow.php:448
+#: includes/elementor/class-el-elementor-event-slideshow.php:691
+#: includes/elementor/class-el-elementor-event-slideshow.php:807
+msgid "Padding"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:1074
+msgid "Padding Dots"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:63
+msgid "Page contents: [el_cart/]"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:96
+msgid "Page contents: [el_member_account/]"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:85
+msgid ""
+"Page contents: [el_search_result/] or [el_search_map pos1=\"name_event\" "
+"pos2=\"location\" pos3=\"cat\" pos4=\"all_time\"  pos5=\"start_event\" "
+"pos6=\"end_event\" pos7=\"venue\" pos8=\"loc_state\"  pos9=\"loc_city\" /]"
+msgstr ""
+
+#: includes/class-el-template-loader.php:124
+msgctxt "Page Template"
+msgid "Authors"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:339
+#: templates/vendor/__edit-event-ticket.php:161
+#: templates/vendor/__event_info.php:71
+#: includes/admin/views/settings/display_profit.php:75
+#: includes/admin/views/settings/display_profit.php:81
+#: includes/admin/views/settings/display_profit.php:89
+#: includes/admin/views/metaboxes/_ticket.php:121
+msgid "Paid"
+msgstr ""
+
+#: includes/admin/views/settings/display_profit.php:23
+msgid "Paided"
+msgstr ""
+
+#: includes/el-core-functions.php:237
+msgid "Pakistani rupee"
+msgstr ""
+
+#: includes/el-core-functions.php:233
+msgid "Panamanian balboa"
+msgstr ""
+
+#: includes/el-core-functions.php:235
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: includes/el-core-functions.php:240
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: includes/class-el-post-types.php:329
+msgid "Parent booking"
+msgstr ""
+
+#: includes/class-el-post-types.php:426
+msgid "Parent Category"
+msgstr ""
+
+#: includes/class-el-post-types.php:427
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/class-el-post-types.php:121
+msgid "Parent event"
+msgstr ""
+
+#: includes/class-el-post-types.php:502
+msgid "Parent Location"
+msgstr ""
+
+#: includes/class-el-post-types.php:503
+msgid "Parent Location:"
+msgstr ""
+
+#: includes/class-el-post-types.php:278
+msgid "Parent membership"
+msgstr ""
+
+#: includes/class-el-post-types.php:227
+msgid "Parent package"
+msgstr ""
+
+#: includes/class-el-post-types.php:465
+msgid "Parent Tag"
+msgstr ""
+
+#: includes/class-el-post-types.php:466
+msgid "Parent Tag:"
+msgstr ""
+
+#: includes/class-el-post-types.php:380
+msgid "Parent ticket"
+msgstr ""
+
+#: includes/class-el-post-types.php:175
+msgid "Parent venue"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:558
+#: templates/vendor/__edit-event-ticket.php:398 templates/vendor/login.php:18
+#: templates/vendor/profile.php:51
+#: includes/admin/views/settings/el_custom_checkout_field.php:227
+#: includes/admin/views/metaboxes/_ticket.php:359
+msgid "Password"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:82
+#: includes/gateways/woo/class-el-payment-woo.php:942
+msgid "Password:"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:89
+#: includes/elementor/class-el-elementor-event-slideshow.php:189
+msgid "Past"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:75
+msgid "Past events"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:180
+#: includes/elementor/class-el-elementor-location-event.php:154
+msgid "Pause on Hover"
+msgstr ""
+
+#: includes/package/class-el-column-manage-membership.php:74
+msgid "Payment"
+msgstr ""
+
+#: templates/cart/payment_method.php:3 templates/cart/payment_gateways.php:9
+#: includes/admin/views/metaboxes/metabox-booking.php:254
+msgid "Payment Method"
+msgstr ""
+
+#: includes/gateways/woo/class-el-payment-woo.php:215
+msgid "Payment via Woocommerce"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-membership.php:91
+msgid "Payment: "
+msgstr ""
+
+#: templates/vendor/__event_info.php:67
+msgid "Payouts"
+msgstr ""
+
+#: includes/admin/views/settings/display_profit.php:41
+msgid "Paypal Account"
+msgstr ""
+
+#: templates/vendor/profile.php:283
+msgid "Paypal Email"
+msgstr ""
+
+#: templates/vendor/bulk-action.php:10 templates/vendor/bulk-action.php:20
+#: templates/vendor/bulk-action.php:48 templates/vendor/__event_info.php:75
+#: templates/vendor/filter-events-status.php:50
+#: templates/vendor/__events-table-body.php:140
+#: templates/vendor/bookings.php:195 templates/vendor/mybookings.php:52
+#: includes/admin/views/settings/display_profit.php:22
+#: includes/admin/views/settings/display_profit.php:74
+#: includes/admin/views/settings/display_profit.php:82
+#: includes/admin/views/settings/display_profit.php:88
+#: includes/admin/views/metaboxes/metabox-booking.php:87
+msgid "Pending"
+msgstr ""
+
+#: templates/vendor/__events-table-body.php:71
+msgid "pending"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:75
+msgid "percent tax"
+msgstr ""
+
+#: includes/el-core-functions.php:236
+msgid "Philippine peso"
+msgstr ""
+
+#: includes/class-el-ajax.php:1153 templates/author_info.php:201
+#: includes/user/class-el-user.php:53 templates/cart/customer_info.php:40
+#: templates/cart/customer_input.php:67 templates/vendor/bookings.php:114
+#: templates/vendor/profile.php:135
+#: includes/gateways/woo/class-el-payment-woo.php:376
+#: includes/gateways/woo/class-el-payment-woo.php:707
+#: includes/gateways/woo/class-el-payment-woo.php:742
+#: includes/gateways/woo/class-el-payment-woo.php:788
+#: includes/admin/views/settings/el_custom_checkout_field.php:229
+#: includes/admin/views/metaboxes/_basic.php:87
+#: includes/admin/views/metaboxes/metabox-booking.php:109
+msgid "Phone"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:304
+msgid "Phone:"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:61
+#: includes/email/el-mail-functions.php:158 templates/vendor/bookings.php:216
+msgid "Phone: "
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:197
+#: includes/admin/views/metaboxes/_basic.php:139
+msgid "Physical location"
+msgstr ""
+
+#: includes/el-core-functions.php:549
+msgid "Picassa"
+msgstr ""
+
+#: includes/el-core-functions.php:537
+msgid "Pinterest"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:128
+#: includes/admin/views/settings/el_custom_checkout_field.php:266
+msgid "Placeholder"
+msgstr ""
+
+#: templates/vendor/profile.php:212
+msgid "Please Check Again"
+msgstr ""
+
+#: includes/api/class-el-api.php:310
+msgid "Please check surely, you have permission to scan this ticket"
+msgstr ""
+
+#: includes/event/class-el-column-event.php:36
+msgid "Please choose Member Account Page in Event Setting"
+msgstr ""
+
+#: includes/class-el-ajax.php:1038 templates/author_info.php:217
+msgid "Please enter input field"
+msgstr ""
+
+#: includes/ticket/class-el-ticket.php:371
+msgid "Please login to check QR Code"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:1134
+msgid "Please make Calendar for event"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:198
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
+msgstr ""
+
+#: includes/vendor/class-el-vendor.php:93
+msgid ""
+"Please register a package or upgrade to high package because your current "
+"package is limit number events"
+msgstr ""
+
+#: templates/cart/ticket_type.php:46 templates/cart/ticket_type.php:244
+msgid "Please select seat"
+msgstr ""
+
+#: templates/cart/cart_info.php:55
+msgid "Please Select Your Seat"
+msgstr ""
+
+#: templates/cart/ticket_type.php:42 templates/cart/cart_info.php:19
+msgid "Please Select Your Ticket"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:73
+#: includes/admin/class-el-admin-ajax.php:140
+msgid "Please update booking status to Complete to send mail"
+msgstr ""
+
+#: includes/el-core-functions.php:238
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: templates/vendor/general.php:55
+msgid "Posted Events"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:157
+#: includes/elementor/class-el-elementor-search-form.php:86
+msgid "Postition 1"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:171
+#: includes/elementor/class-el-elementor-search-form.php:97
+msgid "Postition 2"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:184
+#: includes/elementor/class-el-elementor-search-form.php:107
+msgid "Postition 3"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:197
+#: includes/elementor/class-el-elementor-search-form.php:117
+msgid "Postition 4"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:210
+#: includes/elementor/class-el-elementor-search-form.php:138
+msgid "Postition 5"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:223
+#: includes/elementor/class-el-elementor-search-form.php:159
+msgid "Postition 6"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:236
+#: includes/elementor/class-el-elementor-search-form.php:180
+msgid "Postition 7"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:249
+#: includes/elementor/class-el-elementor-search-form.php:201
+msgid "Postition 8"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:262
+msgid "Postition 9"
+msgstr ""
+
+#: includes/el-core-functions.php:171
+msgid "Pound sterling"
+msgstr ""
+
+#: templates/vendor/edit-event.php:21
+msgid "Preview Event"
+msgstr ""
+
+#: includes/el-core-functions.php:1138 includes/el-core-functions.php:1416
+#: templates/pagination.php:18 templates/author.php:99
+msgid "Previous"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:336
+#: includes/admin/class-el-admin-ajax.php:640
+#: includes/admin/class-el-admin-ajax.php:683
+#: includes/elementor/class-el-elementor-search-map.php:134
+#: templates/cart/cart_info.php:59 templates/vendor/__edit-event-ticket.php:158
+#: templates/vendor/__edit-event-ticket.php:683
+#: templates/vendor/__edit-event-ticket.php:752
+#: includes/admin/views/metaboxes/_ticket.php:118
+#: includes/admin/views/metaboxes/_ticket.php:650
+#: includes/admin/views/metaboxes/_ticket.php:717
+msgid "Price"
+msgstr ""
+
+#: templates/vendor/__events-table-body.php:63
+msgid "private"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:539
+#: templates/vendor/__edit-event-ticket.php:378
+#: templates/vendor/__edit-event-ticket.php:651
+#: includes/admin/views/metaboxes/_ticket.php:337
+#: includes/admin/views/metaboxes/_ticket.php:618
+msgid "Private Description in Ticket - Only see when bought ticket"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:84
+#: includes/gateways/woo/class-el-payment-woo.php:190
+msgid "Processing"
+msgstr ""
+
+#: includes/class-el-post-types.php:122 includes/class-el-post-types.php:176
+#: includes/class-el-post-types.php:228 includes/class-el-post-types.php:279
+#: includes/class-el-post-types.php:330 includes/class-el-post-types.php:381
+msgid "Product image"
+msgstr ""
+
+#: templates/vendor/profile.php:43
+msgid "Profile"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:73
+#: templates/vendor/manage_event.php:70
+#: includes/admin/views/settings/display_profit.php:32
+msgid "Profit"
+msgstr ""
+
+#: templates/vendor/bulk-action.php:9 templates/vendor/bulk-action.php:29
+#: templates/vendor/bulk-action.php:47
+#: templates/vendor/filter-events-status.php:43
+#: templates/vendor/__events-table-body.php:148
+msgid "Publish"
+msgstr ""
+
+#: templates/vendor/__events-table-body.php:67
+msgid "publish"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:59
+msgid "Publish Event"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:24
+msgid "Q"
+msgstr ""
+
+#: includes/el-core-functions.php:241
+msgid "Qatari riyal"
+msgstr ""
+
+#: includes/class-el-ajax.php:1392
+#: includes/admin/views/metaboxes/metabox-ticket.php:92
+msgid "Qr Code"
+msgstr ""
+
+#: includes/ticket/class-el-column-ticket-manager.php:100
+#: templates/vendor/tickets.php:128 templates/vendor/tickets.php:183
+#: templates/vendor/tickets.php:233
+msgid "Qr code"
+msgstr ""
+
+#: includes/gateways/woo/class-el-payment-woo.php:338
+#: includes/gateways/woo/class-el-payment-woo.php:549
+msgid "Qty:"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:987
+#: includes/admin/class-el-admin-ajax.php:1115
+#: templates/cart/ticket_type.php:63 templates/cart/cart_info.php:22
+#: templates/vendor/__edit-event-coupon.php:144
+#: includes/admin/views/metaboxes/metabox-booking.php:288
+#: includes/admin/views/metaboxes/metabox-booking.php:294
+#: includes/admin/views/metaboxes/_coupon.php:134
+msgid "Quantity"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:25
+msgid "R"
+msgstr ""
+
+#: templates/elementor/search_map.php:234 templates/search/search-map.php:250
+msgid "Radius:"
+msgstr ""
+
+#: includes/el-core-functions.php:1176
+msgid "Rating"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:104
+#: includes/setting/class-el-setting-mail.php:247
+#: includes/setting/class-el-setting-mail.php:354
+#: includes/setting/class-el-setting-mail.php:442
+msgid "Recipient(s)"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:289
+msgid "Recommend height: > 300"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:531
+#: templates/vendor/__edit-event-ticket.php:363
+#: templates/vendor/__edit-event-ticket.php:637
+#: includes/admin/views/metaboxes/_ticket.php:324
+#: includes/admin/views/metaboxes/_ticket.php:605
+msgid "Recommended size: 130x50px"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:351
+msgid "Recommended size: 1920x739px"
+msgstr ""
+
+#: templates/vendor/profile.php:104
+msgid "Recommended size: 400x400px"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:377
+#: includes/admin/views/metaboxes/_gallery.php:8
+msgid "Recommended size: 710x480px"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:255
+#: includes/admin/views/metaboxes/_calendar.php:223
+msgid "Recurrences span from "
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:48
+#: includes/admin/views/metaboxes/_calendar.php:28
+msgid "Recurring"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:74
+msgid "Redirect after booking successfully"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-package.php:12
+msgid "Register fee"
+msgstr ""
+
+#: templates/vendor/_package_content.php:141
+msgid "Register Package"
+msgstr ""
+
+#: templates/single/related.php:10
+msgid "Related Events"
+msgstr ""
+
+#: templates/vendor/general.php:51
+msgid "Remaining Events"
+msgstr ""
+
+#: templates/vendor/login.php:19
+msgid "Remember Me"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:537
+msgid "Remind customer"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:538
+msgid "Remind customer about event start time that they registered"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:585
+#: includes/setting/class-el-setting-mail.php:595
+#: includes/setting/class-el-setting-mail.php:599
+#: includes/email/el-mail-functions.php:427
+#: includes/email/el-mail-functions.php:470
+msgid "Remind event start time"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:117
+msgid "Remove"
+msgstr ""
+
+#: includes/class-el-post-types.php:332
+msgid "Remove booking image"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:1027
+#: templates/vendor/__edit-event-coupon.php:187
+#: includes/admin/views/metaboxes/_coupon.php:177
+msgid "Remove Coupon"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:190
+msgid "Remove default image size"
+msgstr ""
+
+#: includes/class-el-post-types.php:124
+msgid "Remove event image"
+msgstr ""
+
+#: templates/vendor/profile.php:96
+msgid "Remove Image"
+msgstr ""
+
+#: includes/class-el-post-types.php:575 includes/class-el-post-types.php:598
+#: includes/admin/views/metaboxes/_gallery.php:18
+msgid "Remove image"
+msgstr ""
+
+#: includes/class-el-post-types.php:281
+msgid "Remove membership image"
+msgstr ""
+
+#: includes/class-el-post-types.php:230
+msgid "Remove package image"
+msgstr ""
+
+#: includes/class-el-post-types.php:383
+msgid "Remove ticket image"
+msgstr ""
+
+#: includes/class-el-post-types.php:178
+msgid "Remove venue image"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:202
+msgid "Remove Woocommerce image size"
+msgstr ""
+
+#: includes/package/class-el-package.php:279
+msgid "Renew Package"
+msgstr ""
+
+#: templates/single/report.php:6
+msgid "Report"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:390
+msgid "Report Event"
+msgstr ""
+
+#: includes/class-el-ajax.php:2471
+#: includes/setting/class-el-setting-mail.php:408
+#: includes/setting/class-el-setting-mail.php:418
+#: includes/setting/class-el-setting-mail.php:422
+#: includes/email/el-mail-functions.php:413
+msgid "Report event"
+msgstr ""
+
+#: includes/class-el-setting.php:74 includes/class-el-setting.php:75
+#: templates/vendor/manage_event.php:117 templates/vendor/general.php:66
+#: includes/admin/views/settings/report_sales.php:165
+msgid "Report Sales"
+msgstr ""
+
+#: includes/class-el-setting.php:84 includes/class-el-setting.php:85
+#: includes/admin/views/settings/report_user.php:166
+msgid "Report Users"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:129
+#: includes/admin/views/settings/el_custom_checkout_field.php:292
+msgid "Required"
+msgstr ""
+
+#: templates/vendor/bulk-action.php:37
+#: templates/vendor/__events-table-body.php:169
+msgid "Restore"
+msgstr ""
+
+#: templates/elementor/search_map.php:43 templates/search/search-map.php:39
+msgid "Results"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:74
+#: includes/elementor/class-el-elementor-button-create-event.php:111
+#: includes/elementor/class-el-elementor-event-slideshow.php:1053
+#: includes/setting/class-el-setting-general.php:281
+msgid "Right"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:283
+msgid "Right with space"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:28
+msgid "Role"
+msgstr ""
+
+#: includes/el-core-functions.php:242
+msgid "Romanian leu"
+msgstr ""
+
+#: templates/vendor/profile.php:273
+#: includes/admin/views/settings/display_profit.php:40
+msgid "Routing Number"
+msgstr ""
+
+#: includes/el-core-functions.php:244
+msgid "Russian ruble"
+msgstr ""
+
+#: includes/el-core-functions.php:245
+msgid "Rwandan franc"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:26
+msgid "S"
+msgstr ""
+
+#: includes/el-core-functions.php:257
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: includes/el-core-functions.php:252
+msgid "Saint Helena pound"
+msgstr ""
+
+#: templates/vendor/manage_event.php:62
+#: templates/vendor/__events-table-body.php:183
+#: templates/vendor/__events-table-head.php:30
+msgid "Sales"
+msgstr ""
+
+#: includes/el-core-functions.php:278
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:212
+#: includes/admin/views/metaboxes/_calendar.php:180
+msgid "Sat"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:182
+msgid "Saturday"
+msgstr ""
+
+#: includes/el-core-functions.php:246
+msgid "Saudi riyal"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:305
+msgid "save"
+msgstr ""
+
+#: templates/vendor/edit-event.php:102
+msgid "Save Event"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:399
+#: includes/elementor/class-el-elementor-search-form.php:400
+#: templates/search/search-form.php:234
+msgid "Search"
+msgstr ""
+
+#: includes/class-el-post-types.php:326
+msgid "Search bookings"
+msgstr ""
+
+#: includes/class-el-post-types.php:424
+msgid "Search Events"
+msgstr ""
+
+#: includes/class-el-post-types.php:118
+msgid "Search events"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:18
+msgid "Search Form"
+msgstr ""
+
+#: includes/class-el-post-types.php:500
+msgid "Search Location"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:18
+msgid "Search Map"
+msgstr ""
+
+#: includes/class-el-post-types.php:275
+msgid "Search memberships"
+msgstr ""
+
+#: includes/class-el-post-types.php:224
+msgid "Search packages"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:84
+msgid "Search Result page"
+msgstr ""
+
+#: templates/global/breadcrumb.php:61
+msgid "Search results for"
+msgstr ""
+
+#: includes/class-el-post-types.php:463
+msgid "Search Tag"
+msgstr ""
+
+#: includes/class-el-post-types.php:377
+msgid "Search Tickets"
+msgstr ""
+
+#: includes/class-el-post-types.php:172
+msgid "Search venues"
+msgstr ""
+
+#: includes/class-el-ajax.php:1388 templates/ticket-info.php:59
+#: includes/ticket/class-el-column-ticket-manager.php:98
+#: templates/cart/cart_info.php:58 templates/vendor/tickets.php:124
+#: templates/vendor/tickets.php:181 templates/vendor/tickets.php:210
+#: includes/gateways/woo/class-el-payment-woo.php:423
+#: includes/admin/views/metaboxes/metabox-ticket.php:64
+msgid "Seat"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:628
+msgid "Seat :"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:1125
+#: includes/admin/views/metaboxes/metabox-booking.php:299
+msgid "Seat Code"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:1053
+#: includes/admin/views/metaboxes/metabox-booking.php:347
+msgid "seat code"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:572
+#: templates/vendor/__edit-event-ticket.php:413
+#: includes/admin/views/metaboxes/_ticket.php:380
+msgid "Seat Code List:"
+msgstr ""
+
+#: includes/event/class-el-event.php:460
+msgid "Seat does not exists"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:741
+#: includes/gateways/woo/class-el-payment-woo.php:339
+#: includes/gateways/woo/class-el-payment-woo.php:550
+#: includes/admin/views/metaboxes/_ticket.php:706
+msgid "Seat:"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:231
+#: includes/admin/views/metaboxes/_calendar.php:199
+msgid "second"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:113
+msgid "Secret Key QR Code"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:231
+msgid "Select"
+msgstr ""
+
+#: templates/elementor/search_map.php:213
+#: templates/elementor/search_form.php:206 templates/search/search-form.php:211
+#: templates/search/search-map.php:223
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: includes/class-el-assets.php:50 includes/admin/class-el-admin-assets.php:50
+msgid "Select Color"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:44
+msgid "Select Event *"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:38
+#: includes/elementor/class-el-elementor-search-form.php:24
+msgid "Select Search"
+msgstr ""
+
+#: templates/cart/ticket_type.php:99
+msgid "Select seat"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:275
+#: includes/elementor/class-el-elementor-search-form.php:223
+msgid "Select Taxonomy"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:109
+#: includes/elementor/class-el-elementor-event-grid.php:191
+#: includes/elementor/class-el-elementor-event-slider.php:133
+#: includes/elementor/class-el-elementor-location-event.php:63
+#: includes/event/class-el-event.php:300
+msgid "Selling"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:567
+msgid "Send a mail every x seconds"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:87
+msgid "Send email to"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:88
+msgid "Send email to Event manager, customer"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:146
+#: includes/setting/class-el-setting-mail.php:288
+#: includes/setting/class-el-setting-mail.php:340
+#: includes/setting/class-el-setting-mail.php:427
+#: includes/setting/class-el-setting-mail.php:499
+#: includes/setting/class-el-setting-mail.php:607
+#: includes/setting/class-el-setting-mail.php:689
+msgid "Send from email"
+msgstr ""
+
+#: templates/author_info.php:206
+msgid "Send Mail"
+msgstr ""
+
+#: templates/vendor/mybookings.php:124
+msgid "Send mail"
+msgstr ""
+
+#: includes/class-el-ajax.php:1037 templates/author_info.php:216
+#: includes/admin/class-el-admin-ajax.php:179
+msgid "Send mail failed"
+msgstr ""
+
+#: includes/class-el-ajax.php:1036 templates/author_info.php:215
+#: includes/admin/class-el-admin-ajax.php:171
+msgid "Send mail success"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:223
+msgid "Send mail to Admin, Recipient(s) when Vendor create Event"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:557
+msgid "Send mail x days before the event starts"
+msgstr ""
+
+#: templates/author_info.php:181
+msgid "Send Message"
+msgstr ""
+
+#: includes/gateways/offline/class-el-payment-offline.php:37
+msgid "Send Tickets after registering successfully"
+msgstr ""
+
+#: includes/gateways/free/class-el-payment-free.php:37
+msgid "Send Tickets after registering successfully."
+msgstr ""
+
+#: includes/el-core-functions.php:243
+msgid "Serbian dinar"
+msgstr ""
+
+#: includes/class-el-post-types.php:331
+msgid "Set booking image"
+msgstr ""
+
+#: includes/class-el-post-types.php:123
+msgid "Set event image"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:172
+#: includes/elementor/class-el-elementor-location-event.php:146
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: includes/class-el-post-types.php:280
+msgid "Set membership image"
+msgstr ""
+
+#: includes/class-el-post-types.php:229
+msgid "Set package image"
+msgstr ""
+
+#: includes/class-el-post-types.php:382
+msgid "Set ticket image"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:254
+msgid "Set up currency format"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:38
+msgid "Set up permission for Event Manager (Vendors)"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:104
+msgid "Set up permission for Users"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:38
+msgid "Set up Tax for customers"
+msgstr ""
+
+#: includes/class-el-post-types.php:177
+msgid "Set venue image"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:90
+msgid "Setting Post"
+msgstr ""
+
+#: includes/class-el-setting.php:112
+#: includes/elementor/class-el-elementor-menu-event-price.php:31
+#: includes/elementor/class-el-elementor-category-event.php:47
+#: includes/elementor/class-el-elementor-package.php:24
+#: includes/elementor/class-el-elementor-event-grid.php:32
+#: includes/elementor/class-el-elementor-location-event.php:51
+#: includes/elementor/class-el-elementor-menu-event-detail.php:31
+#: includes/elementor/class-el-elementor-search-map.php:53
+#: includes/elementor/class-el-elementor-search-form.php:39
+msgid "Settings"
+msgstr ""
+
+#: includes/el-core-functions.php:248
+msgid "Seychellois rupee"
+msgstr ""
+
+#: templates/single/share_social.php:7
+msgid "Share"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:163
+#: includes/elementor/class-el-elementor-event-grid.php:175
+#: includes/elementor/class-el-elementor-search-map.php:92
+#: includes/elementor/class-el-elementor-search-map.php:104
+#: includes/elementor/class-el-elementor-event-slideshow.php:236
+msgid "Show"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:173
+msgid "Show All"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:925
+msgid "Show Arrows"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:181
+msgid "Show Date"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:259
+#: includes/elementor/class-el-elementor-location-event.php:233
+msgid "Show dot"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:68
+msgid "Show events under these conditions"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:161
+msgid "Show Filter"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:90
+msgid "Show Filters"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:102
+msgid "Show Map"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:277
+msgid "Show More Description"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:250
+#: includes/elementor/class-el-elementor-location-event.php:224
+msgid "Show Navigation"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:120
+#: includes/elementor/class-el-elementor-location-event.php:74
+msgid "Show number event"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:253
+msgid "Show Schema"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:215
+#: includes/setting/class-el-setting-event.php:264
+msgid "Show Time"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:191
+msgid "Show Venue"
+msgstr ""
+
+#: includes/el-core-functions.php:253
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: templates/vendor/login.php:9 templates/vendor/login.php:17
+msgid "Sign In"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:109
+msgid "Signature verification failed"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:95
+#: includes/admin/views/metaboxes/_ticket.php:59
+msgid "Simple Seat"
+msgstr ""
+
+#: includes/el-core-functions.php:251
+msgid "Singapore dollar"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_gallery.php:48
+msgid "Single Banner:"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:234
+msgid "Single Event Settings"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:127
+msgid "Size"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:321
+#: templates/vendor/__edit-event-ticket.php:143
+#: includes/admin/views/metaboxes/_ticket.php:103
+msgid "SKU: *"
+msgstr ""
+
+#: includes/el-core-functions.php:547
+msgid "Skype"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:247
+msgid "Slider"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:351
+msgid "Slider Options"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:126
+#: includes/elementor/class-el-elementor-event-slideshow.php:408
+msgid "Slides"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:170
+#: includes/elementor/class-el-elementor-location-event.php:144
+msgid "Slides to Scroll"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:29
+msgid "Small"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slider.php:240
+#: includes/elementor/class-el-elementor-location-event.php:214
+msgid "Smart Speed"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:320 templates/vendor/profile.php:47
+#: includes/admin/views/metaboxes/_basic.php:103
+msgid "Social"
+msgstr ""
+
+#: includes/el-core-functions.php:234
+msgid "Sol"
+msgstr ""
+
+#: templates/cart/ticket_type.php:162
+msgid "Sold out"
+msgstr ""
+
+#: includes/el-core-functions.php:247
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: includes/el-core-functions.php:254
+msgid "Somali shilling"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:58
+msgid "Some packages may change tax in per event"
+msgstr ""
+
+#: includes/event/class-el-event.php:387 includes/event/class-el-event.php:473
+msgid "Some thing went wrong price"
+msgstr ""
+
+#: includes/event/class-el-event.php:402
+msgid "Some thing went wrong seat"
+msgstr ""
+
+#: includes/event/class-el-event.php:486
+#, php-format
+msgid "Some thing went wrong seat: %s"
+msgstr ""
+
+#: templates/elementor/search_map.php:259 templates/search/search-map.php:275
+msgid "Sort By"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-package.php:119
+msgid "Sort package at frontend"
+msgstr ""
+
+#: includes/el-core-functions.php:284
+msgid "South African rand"
+msgstr ""
+
+#: includes/el-core-functions.php:202
+msgid "South Korean won"
+msgstr ""
+
+#: includes/el-core-functions.php:256
+msgid "South Sudanese pound"
+msgstr ""
+
+#: includes/el-core-functions.php:553
+msgid "Spotify"
+msgstr ""
+
+#: includes/el-core-functions.php:208
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: templates/vendor/edit-event.php:56
+#: includes/admin/views/metaboxes/metabox.php:21
+msgid "Staff Member"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:677
+#: templates/vendor/__edit-event-ticket.php:677
+msgid "Standard"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:926
+#: templates/vendor/__edit-event-coupon.php:82
+#: includes/admin/views/metaboxes/_coupon.php:72
+msgid "Start"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:129
+msgid "Start - End Date"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:130
+#: includes/elementor/class-el-elementor-name-event-slider.php:103
+#: includes/elementor/class-el-elementor-event-slider.php:118
+#: includes/elementor/class-el-elementor-search-map.php:43
+#: includes/elementor/class-el-elementor-search-map.php:135
+#: includes/elementor/class-el-elementor-search-form.php:29
+#: includes/elementor/class-el-elementor-event-slideshow.php:211
+#: includes/setting/class-el-setting-event.php:128
+#: includes/setting/class-el-setting-event.php:146
+#: includes/package/class-el-booking-package.php:163
+#: includes/package/class-el-booking-package.php:401
+#: includes/package/class-el-booking-package.php:424
+#: includes/package/class-el-booking-package.php:446
+#: includes/package/class-el-column-manage-membership.php:70
+#: templates/elementor/search_map.php:263 templates/search/search-map.php:279
+#: templates/vendor/tickets.php:133
+#: includes/admin/views/metaboxes/metabox-ticket.php:100
+msgid "Start Date"
+msgstr ""
+
+#: includes/class-el-ajax.php:1396
+#: includes/ticket/class-el-column-ticket-manager.php:101
+#: templates/shortcode/my_wishlist.php:17
+#: templates/shortcode/my_wishlist.php:36 templates/vendor/tickets.php:184
+#: templates/vendor/tickets.php:237
+msgid "Start date"
+msgstr ""
+
+#: templates/elementor/search_map.php:134
+#: templates/elementor/search_form.php:160 templates/search/search-form.php:151
+#: templates/search/search-map.php:129
+msgid "Start date ..."
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:407
+#: templates/vendor/__edit-event-ticket.php:234
+#: templates/vendor/__edit-event-ticket.php:508
+#: includes/admin/views/metaboxes/_ticket.php:191
+#: includes/admin/views/metaboxes/_ticket.php:476
+msgid "Start date for selling tickets"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:748
+#: templates/vendor/__edit-event-calendar.php:79
+#: includes/admin/views/metaboxes/_calendar.php:51
+msgid "Start Date:"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-membership.php:41
+msgid "Start Date: *"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:46
+#: includes/elementor/class-el-elementor-search-form.php:32
+msgid "State"
+msgstr ""
+
+#: templates/elementor/search_form.php:86 templates/search/search-form.php:77
+msgid "State, City ..."
+msgstr ""
+
+#: includes/class-el-ajax.php:1165
+#: includes/booking/class-el-column-manager-booking.php:116
+#: includes/ticket/class-el-column-ticket-manager.php:97
+#: templates/vendor/bookings.php:127 templates/vendor/bookings.php:177
+#: templates/vendor/bookings.php:222 templates/vendor/mybookings.php:33
+#: templates/vendor/mybookings.php:111
+#: templates/vendor/_package_table_user_res.php:15
+#: templates/vendor/general.php:43
+#: includes/admin/views/settings/display_profit.php:33
+#: includes/admin/views/metaboxes/metabox-booking.php:79
+msgid "Status"
+msgstr ""
+
+#: includes/admin/views/settings/display_profit.php:42
+msgid "Stripe Account"
+msgstr ""
+
+#: templates/vendor/profile.php:291
+msgid "Stripe Email"
+msgstr ""
+
+#: includes/el-core-functions.php:540
+msgid "StumbleUpon"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:1116
+#: includes/admin/class-el-admin-ajax.php:1126
+#: includes/admin/views/metaboxes/metabox-booking.php:289
+#: includes/admin/views/metaboxes/metabox-booking.php:295
+#: includes/admin/views/metaboxes/metabox-booking.php:300
+msgid "Sub Total"
+msgstr ""
+
+#: templates/author_info.php:203 includes/setting/class-el-setting-mail.php:118
+#: includes/setting/class-el-setting-mail.php:260
+#: includes/setting/class-el-setting-mail.php:399
+#: includes/setting/class-el-setting-mail.php:484
+#: includes/setting/class-el-setting-mail.php:577
+#: includes/setting/class-el-setting-mail.php:661
+msgid "Subject"
+msgstr ""
+
+#: includes/class-el-ajax.php:1043 templates/cart/checkout_button.php:11
+msgid "Submit"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:74
+#: includes/api/class-el-api.php:271
+msgid "Success"
+msgstr ""
+
+#: includes/el-core-functions.php:249
+msgid "Sudanese pound"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:213
+#: includes/admin/views/metaboxes/_calendar.php:181
+msgid "Sun"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:183
+msgid "Sunday"
+msgstr ""
+
+#: includes/el-core-functions.php:255
+msgid "Surinamese dollar"
+msgstr ""
+
+#: includes/el-core-functions.php:259
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: includes/el-core-functions.php:250
+msgid "Swedish krona"
+msgstr ""
+
+#: includes/el-core-functions.php:152
+msgid "Swiss franc"
+msgstr ""
+
+#: includes/el-core-functions.php:258
+msgid "Syrian pound"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:27
+msgid "T"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:568
+msgid "Tag"
+msgstr ""
+
+#: includes/class-el-post-types.php:471 templates/single/tag.php:7
+#: templates/vendor/__edit-event-basic.php:167
+msgid "Tags"
+msgstr ""
+
+#: includes/el-core-functions.php:261
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: includes/el-core-functions.php:268
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:37 templates/cart/cart_info.php:32
+#: templates/cart/cart_info.php:72 templates/vendor/__edit-event-ticket.php:72
+msgid "Tax"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:28
+msgid "Tax & Profit"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:57
+msgid "Tax percentage(%)"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:286
+#: includes/elementor/class-el-elementor-search-form.php:234
+msgid "Taxonomy Custom"
+msgstr ""
+
+#: includes/class-el-post-types.php:422
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: includes/class-el-post-types.php:498
+msgctxt "taxonomy general name"
+msgid "Locations"
+msgstr ""
+
+#: includes/class-el-post-types.php:461
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: includes/class-el-post-types.php:423
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: includes/class-el-post-types.php:499
+msgctxt "taxonomy singular name"
+msgid "Location"
+msgstr ""
+
+#: includes/class-el-post-types.php:462
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:106
+msgid "Terms & Conditions page"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:85
+#: includes/admin/views/settings/el_custom_checkout_field.php:226
+msgid "Text"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-form.php:397
+msgid "Text Button"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:243
+#: includes/elementor/class-el-elementor-button-create-event.php:279
+#: includes/elementor/class-el-elementor-search-form.php:435
+#: includes/elementor/class-el-elementor-search-form.php:467
+#: includes/elementor/class-el-elementor-event-slideshow.php:703
+#: includes/elementor/class-el-elementor-event-slideshow.php:819
+msgid "Text Color"
+msgstr ""
+
+#: includes/admin/views/settings/el_custom_checkout_field.php:230
+msgid "Textarea"
+msgstr ""
+
+#: includes/el-core-functions.php:260
+msgid "Thai baht"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:73
+msgid "Thank you page"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:580
+#: templates/vendor/__edit-event-ticket.php:421
+#: includes/admin/views/metaboxes/_ticket.php:388
+msgid "The customer choose seat:"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:188
+msgid "The default latitude of map when the event do not exist"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:202
+msgid "The default longitude of map when the event do not exist"
+msgstr ""
+
+#: templates/cart/customer_input.php:50
+msgid "The email doesn't match "
+msgstr ""
+
+#: templates/cart/cart.php:35
+msgid "The Event isn't available"
+msgstr ""
+
+#: templates/cart/cart.php:31
+msgid "The Event isn't exists"
+msgstr ""
+
+#: includes/class-el-ajax.php:2502
+msgid "The guest contact "
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:477
+msgid "The Guest contact Vendor at frontend"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:391
+msgid "The Guest report an event"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:608
+#: includes/setting/class-el-setting-mail.php:690
+msgid "The guest will know them to receive mail from which email address is"
+msgstr ""
+
+#: includes/ticket/class-el-ticket.php:400
+msgid "The QR Code is Valid"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:261
+msgid "The subject displays in list mail"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:133
+#: includes/setting/class-el-setting-mail.php:274
+#: includes/setting/class-el-setting-mail.php:414
+#: includes/setting/class-el-setting-mail.php:485
+#: includes/setting/class-el-setting-mail.php:591
+#: includes/setting/class-el-setting-mail.php:675
+msgid "The subject displays in mail detail"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:119
+msgid "The subject displays in mail list"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:578
+#: includes/setting/class-el-setting-mail.php:662
+msgid "The subject displays in the email list"
+msgstr ""
+
+#: includes/gateways/woo/class-el-payment-woo.php:152
+msgid "The ticket or seat code isn't available"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:191
+#: includes/setting/class-el-setting-general.php:203
+msgid "These image size doesn't use in plugin"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:551
+#: templates/vendor/__edit-event-ticket.php:391
+#: includes/admin/views/metaboxes/_ticket.php:349
+msgid "These info only display in mail"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:232
+#: includes/admin/views/metaboxes/_calendar.php:200
+msgid "third"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:69
+#: includes/gateways/woo/class-el-payment-woo.php:200
+msgid "This allow to booking a event via WooCommerce"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:181
+#: includes/admin/views/metaboxes/_calendar.php:150
+msgid "This event repeats"
+msgstr ""
+
+#: includes/class-el-post-types.php:541 includes/class-el-post-types.php:557
+msgid ""
+"This is the field description where you can tell the user how the color is "
+"used in the theme."
+msgstr ""
+
+#: includes/class-el-post-types.php:340
+msgid "This is where you can add new bookings."
+msgstr ""
+
+#: includes/class-el-post-types.php:289
+msgid "This is where you can add new memberships."
+msgstr ""
+
+#: includes/class-el-post-types.php:238
+msgid "This is where you can add new packages."
+msgstr ""
+
+#: includes/class-el-post-types.php:391
+msgid "This is where you can add new tickets."
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:114
+msgid "This key will attach to string to make QR Code"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:156
+msgid "This language calendar"
+msgstr ""
+
+#: templates/vendor/manage_event.php:133 templates/vendor/general.php:84
+#: includes/admin/views/settings/report_sales.php:184
+#: includes/admin/views/settings/report_user.php:185
+msgid "This Month"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:56
+msgid ""
+"This settings used for:<br/> \n"
+"                  \tEvent List page: https://your-domain.com/event<br/>\n"
+"                  \tCategory page: https://your-domain."
+"com/event_cat/business<br/>\n"
+"                  \tSearch Page"
+msgstr ""
+
+#: templates/elementor/search_map.php:121
+#: templates/elementor/search_form.php:144 templates/search/search-form.php:135
+#: templates/search/search-map.php:116
+msgid "This Week"
+msgstr ""
+
+#: templates/elementor/search_map.php:122
+#: templates/elementor/search_form.php:145 templates/search/search-form.php:136
+#: templates/search/search-map.php:117
+msgid "This Weekend"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:290
+msgid "Thousand Separator"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:210
+#: includes/admin/views/metaboxes/_calendar.php:178
+msgid "Thu"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_gallery.php:50
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:180
+msgid "Thursday"
+msgstr ""
+
+#: includes/class-el-post-types.php:366 includes/class-el-post-types.php:367
+#: includes/admin/class-el-admin-ajax.php:1114 templates/pdf/template.php:66
+#: templates/vendor/edit-event.php:44
+#: includes/admin/metabox/class-el-admin-metabox-ticket.php:10
+#: includes/admin/views/metaboxes/metabox-booking.php:287
+#: includes/admin/views/metaboxes/metabox-booking.php:293
+#: includes/admin/views/metaboxes/metabox.php:12
+msgid "Ticket"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:458
+#: templates/vendor/__edit-event-ticket.php:287
+#: templates/vendor/__edit-event-ticket.php:559
+#: includes/admin/views/metaboxes/_ticket.php:244
+#: includes/admin/views/metaboxes/_ticket.php:527
+msgid "Ticket border color"
+msgstr ""
+
+#: includes/event/class-el-event.php:467
+msgid "Ticket closed"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:491
+#: templates/vendor/__edit-event-ticket.php:321
+#: templates/vendor/__edit-event-ticket.php:591
+#: includes/admin/views/metaboxes/_ticket.php:278
+#: includes/admin/views/metaboxes/_ticket.php:559
+msgid "Ticket content color"
+msgstr ""
+
+#: templates/single/ticket_info.php:15
+msgid "Ticket Information"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:475
+#: templates/vendor/__edit-event-ticket.php:304
+#: templates/vendor/__edit-event-ticket.php:575
+#: includes/admin/views/metaboxes/_ticket.php:261
+#: includes/admin/views/metaboxes/_ticket.php:543
+msgid "Ticket label color"
+msgstr ""
+
+#: includes/event/class-el-event.php:393
+msgid "Ticket limited"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:1057
+#: includes/admin/views/metaboxes/metabox-booking.php:320
+msgid "ticket name"
+msgstr ""
+
+#: includes/ticket/class-el-column-ticket-manager.php:92
+#: includes/admin/views/metaboxes/metabox-ticket.php:13
+msgid "Ticket Number"
+msgstr ""
+
+#: templates/cart/customer_info.php:3 templates/cart/customer_input.php:3
+msgid "Ticket Receiver"
+msgstr ""
+
+#: includes/class-el-ajax.php:1169 includes/class-el-ajax.php:1372
+#: includes/booking/class-el-column-manager-booking.php:117
+#: includes/ticket/class-el-column-ticket-manager.php:95
+#: templates/cart/ticket_type.php:57 templates/cart/cart_info.php:21
+#: templates/vendor/tickets.php:105 templates/vendor/tickets.php:179
+#: templates/vendor/tickets.php:202 templates/vendor/bookings.php:131
+#: templates/vendor/bookings.php:178 templates/vendor/bookings.php:223
+#: templates/vendor/mybookings.php:31 templates/vendor/mybookings.php:82
+#: includes/gateways/woo/class-el-payment-woo.php:408
+#: includes/gateways/woo/class-el-payment-woo.php:414
+#: includes/gateways/woo/class-el-payment-woo.php:710
+#: includes/gateways/woo/class-el-payment-woo.php:745
+#: includes/gateways/woo/class-el-payment-woo.php:791
+#: includes/admin/views/metaboxes/metabox-ticket.php:38
+msgid "Ticket Type"
+msgstr ""
+
+#: includes/event/class-el-event.php:381
+msgid "Ticket Type closed"
+msgstr ""
+
+#: includes/event/class-el-event.php:374
+msgid "Ticket Type does not exists"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:156
+msgid "Ticket Type: "
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:971
+#: templates/vendor/__edit-event-coupon.php:128
+#: includes/admin/views/metaboxes/_coupon.php:118
+msgid "Ticket types"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:92
+#: includes/email/el-mail-functions.php:92 templates/vendor/bookings.php:238
+#: templates/vendor/mybookings.php:97
+#: includes/gateways/woo/class-el-payment-woo.php:945
+msgid "ticket(s)"
+msgstr ""
+
+#: templates/vendor/manage_event.php:88
+#: templates/vendor/manage_event_sidebar.php:85
+msgid "Tickets"
+msgstr ""
+
+#: includes/event/class-el-event.php:298
+msgid "Tickets availabel soon"
+msgstr ""
+
+#: includes/class-el-post-types.php:389
+msgid "Tickets list"
+msgstr ""
+
+#: includes/class-el-post-types.php:388
+msgid "Tickets navigation"
+msgstr ""
+
+#: includes/class-el-post-types.php:407
+msgctxt "Tickets Slug"
+msgid "el_tickets"
+msgstr ""
+
+#: templates/pdf/template.php:30
+msgid "Time"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:143
+msgid "Time Format"
+msgstr ""
+
+#: templates/cart/cart.php:27
+msgid "Time out. Please choose another day."
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:122
+msgid "Time Zone"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:64
+msgid "Time zone:"
+msgstr ""
+
+#: includes/booking/class-el-column-manager-booking.php:112
+#: includes/elementor/class-el-elementor-event-grid.php:129
+#: includes/elementor/class-el-elementor-name-event-slider.php:102
+#: includes/elementor/class-el-elementor-event-slider.php:117
+#: includes/elementor/class-el-elementor-event-slideshow.php:212
+#: includes/elementor/class-el-elementor-event-slideshow.php:466
+#: includes/setting/class-el-setting-event.php:144
+msgid "Title"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:165
+#: templates/vendor/__edit-event-calendar.php:267
+#: includes/admin/views/metaboxes/_calendar.php:135
+#: includes/admin/views/metaboxes/_calendar.php:235
+msgid "to"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:130
+msgid "To be defined when choosing to input a date"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:792
+#: includes/admin/class-el-admin-ajax.php:839
+#: templates/vendor/__edit-event-calendar.php:119
+#: templates/vendor/__edit-event-calendar.php:317
+#: includes/admin/views/metaboxes/_calendar.php:90
+#: includes/admin/views/metaboxes/_calendar.php:285
+msgid "To:"
+msgstr ""
+
+#: templates/elementor/search_map.php:119
+#: templates/elementor/search_form.php:142 templates/search/search-form.php:133
+#: templates/search/search-map.php:114
+msgid "Today"
+msgstr ""
+
+#: templates/elementor/search_map.php:54 templates/search/search-map.php:48
+msgid "Toggle Filters"
+msgstr ""
+
+#: templates/elementor/search_map.php:120
+#: templates/elementor/search_form.php:143 templates/search/search-form.php:134
+#: templates/search/search-map.php:115
+msgid "Tomorrow"
+msgstr ""
+
+#: includes/el-core-functions.php:264
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: includes/class-el-ajax.php:1161
+#: includes/booking/class-el-column-manager-booking.php:115
+#: includes/package/class-el-column-manage-membership.php:72
+#: templates/cart/cart_info.php:39 templates/cart/cart_info.php:79
+#: templates/vendor/bookings.php:123 templates/vendor/bookings.php:176
+#: templates/vendor/bookings.php:221 templates/vendor/mybookings.php:30
+#: templates/vendor/mybookings.php:80
+#: templates/vendor/_package_table_user_res.php:14
+msgid "Total"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:358
+#: templates/vendor/__edit-event-ticket.php:182
+#: includes/admin/views/metaboxes/_ticket.php:142
+msgid "Total "
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:395
+msgid "Total after tax"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-booking.php:388
+msgid "Total before tax"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:244
+msgid "Total Custom Taxonomy"
+msgstr ""
+
+#: templates/vendor/_package_content.php:53
+msgid "Total Event"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:59
+#: includes/elementor/class-el-elementor-event-slideshow.php:159
+msgid "Total Post"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:114
+#: includes/elementor/class-el-elementor-event-slider.php:89
+msgid "Total post"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:169
+msgid "Total Text"
+msgstr ""
+
+#: templates/vendor/__events_table_tickets.php:148
+msgid "Total Tickets:"
+msgstr ""
+
+#: includes/email/el-mail-functions.php:163
+#: includes/admin/views/metaboxes/metabox-membership.php:78
+msgid "Total: "
+msgstr ""
+
+#: includes/el-core-functions.php:239
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: templates/vendor/bulk-action.php:8 templates/vendor/bulk-action.php:19
+#: templates/vendor/bulk-action.php:28 templates/vendor/bulk-action.php:46
+#: templates/vendor/filter-events-status.php:57
+#: templates/vendor/__events-table-body.php:156
+msgid "Trash"
+msgstr ""
+
+#: templates/vendor/__events-table-body.php:75
+msgid "trash"
+msgstr ""
+
+#: includes/el-core-functions.php:266
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:208
+#: includes/admin/views/metaboxes/_calendar.php:176
+msgid "Tue"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:178
+msgid "Tuesday"
+msgstr ""
+
+#: includes/el-core-functions.php:539
+msgid "Tumblr"
+msgstr ""
+
+#: includes/el-core-functions.php:263
+msgid "Tunisian dinar"
+msgstr ""
+
+#: includes/el-core-functions.php:265
+msgid "Turkish lira"
+msgstr ""
+
+#: includes/el-core-functions.php:262
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: includes/el-core-functions.php:536
+msgid "Twitter"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:55
+#: includes/elementor/class-el-elementor-button-create-event.php:68
+#: includes/elementor/class-el-elementor-search-map.php:60
+#: includes/elementor/class-el-elementor-search-form.php:46
+#: includes/elementor/class-el-elementor-event-slideshow.php:182
+#: includes/setting/class-el-setting-event.php:83
+#: includes/admin/views/settings/el_custom_checkout_field.php:126
+#: includes/admin/views/settings/el_custom_checkout_field.php:223
+msgid "Type"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:103
+#: includes/elementor/class-el-elementor-event-slider.php:68
+#: includes/elementor/class-el-elementor-search-map.php:64
+#: includes/elementor/class-el-elementor-search-form.php:50
+#: includes/setting/class-el-setting-event.php:87
+msgid "Type 1"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:104
+#: includes/elementor/class-el-elementor-event-slider.php:69
+#: includes/elementor/class-el-elementor-search-map.php:65
+#: includes/elementor/class-el-elementor-search-form.php:51
+#: includes/setting/class-el-setting-event.php:88
+msgid "Type 2"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:66
+#: includes/elementor/class-el-elementor-search-form.php:52
+#: includes/setting/class-el-setting-event.php:89
+msgid "Type 3"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:105
+#: includes/elementor/class-el-elementor-event-slider.php:70
+#: includes/elementor/class-el-elementor-search-map.php:67
+#: includes/setting/class-el-setting-event.php:90
+msgid "Type 4"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:106
+#: includes/elementor/class-el-elementor-event-slider.php:71
+#: includes/elementor/class-el-elementor-search-map.php:68
+#: includes/setting/class-el-setting-event.php:91
+msgid "Type 5"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:99
+#: includes/elementor/class-el-elementor-event-slider.php:64
+msgid "Type Event"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:671
+#: templates/vendor/__edit-event-ticket.php:671
+#: includes/admin/views/metaboxes/_ticket.php:639
+msgid "Type Seat:"
+msgstr ""
+
+#: templates/vendor/__edit-event-ticket.php:85
+#: includes/admin/views/metaboxes/_ticket.php:55
+msgid "Type:"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:234
+#: includes/elementor/class-el-elementor-search-form.php:408
+msgid "Typography"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:28
+msgid "U"
+msgstr ""
+
+#: includes/el-core-functions.php:270
+msgid "Ugandan shilling"
+msgstr ""
+
+#: includes/el-core-functions.php:269
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: templates/cart/ticket_type.php:60
+msgid "Unit Price"
+msgstr ""
+
+#: includes/el-core-functions.php:123
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: includes/el-core-functions.php:271
+msgid "United States (US) dollar"
+msgstr ""
+
+#: includes/package/class-el-package.php:268
+#: includes/package/class-el-booking-package.php:119
+#: includes/package/class-el-booking-package.php:159
+#: includes/package/class-el-column-manage-membership.php:31
+#: templates/vendor/_package_content.php:31
+#: templates/vendor/_package_content.php:43 templates/vendor/general.php:36
+msgid "Unlimit"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:108
+#: includes/elementor/class-el-elementor-event-grid.php:190
+#: includes/elementor/class-el-elementor-name-event-slider.php:86
+#: includes/elementor/class-el-elementor-event-slider.php:132
+#: includes/elementor/class-el-elementor-location-event.php:62
+#: includes/elementor/class-el-elementor-event-slideshow.php:187
+#: includes/event/el-event-functions.php:103
+#: includes/event/class-el-event.php:71 includes/event/class-el-event.php:513
+msgid "Upcoming"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-slideshow.php:186
+msgid "Upcoming & Current"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-event-grid.php:192
+#: includes/elementor/class-el-elementor-event-slider.php:134
+msgid "Upcoming & Selling"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:72
+msgid "Upcoming events"
+msgstr ""
+
+#: templates/vendor/profile.php:296
+msgid "Update Bank"
+msgstr ""
+
+#: includes/class-el-post-types.php:429
+msgid "Update Category"
+msgstr ""
+
+#: includes/class-el-post-types.php:505
+msgid "Update Location"
+msgstr ""
+
+#: templates/vendor/profile.php:233
+msgid "Update Password"
+msgstr ""
+
+#: templates/vendor/profile.php:152
+msgid "Update Profile"
+msgstr ""
+
+#: templates/vendor/profile.php:192
+msgid "Update Social"
+msgstr ""
+
+#: includes/class-el-ajax.php:1614 templates/vendor/profile.php:196
+msgid "Update Success"
+msgstr ""
+
+#: includes/ticket/class-el-ticket.php:401
+msgid "Update successful"
+msgstr ""
+
+#: includes/class-el-post-types.php:468
+msgid "Update Tag"
+msgstr ""
+
+#: templates/vendor/tickets.php:280
+msgid "Update Ticket Status"
+msgstr ""
+
+#: templates/vendor/profile.php:73
+msgid "upgrade to Vendor Role"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:77
+#: includes/setting/class-el-setting-role.php:108
+msgid "Upload Image"
+msgstr ""
+
+#: includes/class-el-post-types.php:335
+msgid "Uploaded to this booking"
+msgstr ""
+
+#: includes/class-el-post-types.php:127
+msgid "Uploaded to this event"
+msgstr ""
+
+#: includes/class-el-post-types.php:284
+msgid "Uploaded to this membership"
+msgstr ""
+
+#: includes/class-el-post-types.php:233
+msgid "Uploaded to this package"
+msgstr ""
+
+#: includes/class-el-post-types.php:386
+msgid "Uploaded to this ticket"
+msgstr ""
+
+#: includes/class-el-post-types.php:181
+msgid "Uploaded to this venue"
+msgstr ""
+
+#: includes/el-core-functions.php:272
+msgid "Uruguayan peso"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-package.php:41
+#: includes/admin/views/metaboxes/metabox-package.php:52
+msgid "USD"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:303
+msgid ""
+"Use [el_event] tags to generate email template. Example: <br/> New Event: "
+"[el_event]"
+msgstr ""
+
+#: includes/class-el-post-types.php:333
+msgid "Use as booking image"
+msgstr ""
+
+#: includes/class-el-post-types.php:125
+msgid "Use as event image"
+msgstr ""
+
+#: includes/class-el-post-types.php:282
+msgid "Use as membership image"
+msgstr ""
+
+#: includes/class-el-post-types.php:231
+msgid "Use as package image"
+msgstr ""
+
+#: includes/class-el-post-types.php:384
+msgid "Use as ticket image"
+msgstr ""
+
+#: includes/class-el-post-types.php:179
+msgid "Use as venue image"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_basic.php:76
+msgid "Use other information without your profile info"
+msgstr ""
+
+#: includes/setting/class-el-setting-package.php:43
+msgid "Use package for creating event"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:377
+msgid ""
+"Use tags to generate email template. Example: You registered user "
+"[el_link_profile] successfully at [el_link_home_page]"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:713
+msgid ""
+"Use tags to generate email template. For example: <br/>Cancel Booking "
+"#[booking_id] Successfully"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:631
+msgid ""
+"Use tags to generate email template. For example: <br/>You registered event: "
+"[el_event_name] at [el_event_start_time]"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:161
+msgid ""
+"Use tags to generate email template<br/>\n"
+"                     Event Name: [el_event]<br/>\n"
+"\n"
+"                     Booking ID: [el_booking_id]<br/>\n"
+"\n"
+"                     Total: [el_total]<br/>\n"
+"\n"
+"                     Date: [el_date]<br/>\n"
+"\n"
+"                     Ticket Type: [el_type_ticket]<br/>\n"
+"\n"
+"                     Address: [el_address]<br/>\n"
+"\n"
+"                     Venue: [el_venue]<br/>\n"
+"\n"
+"                     Name: [el_name]<br/>\n"
+"\n"
+"                     Phone: [el_phone]<br/>\n"
+"\n"
+"                     Email: [el_email]<br/>\n"
+"                     \n"
+"                     [el_custom_fields]"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:464
+msgid ""
+"Use tags to generate email template<br/>\n"
+"                     Message: [el_message]<br/>\n"
+"                     Link Event: [el_link_event]<br/>"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:523
+msgid ""
+"Use tags to generate email template<br/>\n"
+"                     Name: [el_name]<br/>\n"
+"                     Email: [el_mail]<br/>\n"
+"                     Phone: [el_phone]<br/>\n"
+"                     Content: [el_content]<br/>"
+msgstr ""
+
+#: includes/el-core-functions.php:2069
+msgid "User"
+msgstr ""
+
+#: includes/admin/views/metaboxes/metabox-membership.php:100
+msgid "User ID: "
+msgstr ""
+
+#: includes/package/class-el-column-manage-membership.php:73
+msgid "User Name"
+msgstr ""
+
+#: templates/vendor/__edit-event-api-key.php:13
+msgid "User name scan QR Code in App Mobile:"
+msgstr ""
+
+#: includes/admin/views/metaboxes/_api_key.php:5
+msgid "User name scan QR Code:"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:103
+msgid "User Role Settings"
+msgstr ""
+
+#: templates/vendor/profile.php:112
+msgid "Username"
+msgstr ""
+
+#: templates/vendor/__edit-event-api-key.php:20
+#: includes/admin/views/metaboxes/_api_key.php:13
+msgid "username"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:233
+msgid "Users have to login to checkout of events."
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:124
+#: includes/admin/views/metaboxes/_basic.php:65
+msgid "UTC+1"
+msgstr ""
+
+#: includes/el-core-functions.php:273
+msgid "Uzbekistani som"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:29
+msgid "V"
+msgstr ""
+
+#: includes/el-core-functions.php:277
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: includes/el-core-functions.php:2066
+#: includes/setting/class-el-setting-mail.php:96
+msgid "Vendor"
+msgstr ""
+
+#: includes/setting/class-el-setting-role.php:37
+msgid "Vendor Role Settings"
+msgstr ""
+
+#: includes/el-core-functions.php:274
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: includes/class-el-ajax.php:1380 includes/class-el-post-types.php:162
+#: templates/archive-venue.php:35
+#: includes/elementor/class-el-elementor-search-map.php:45
+#: includes/elementor/class-el-elementor-search-form.php:31
+#: includes/elementor/class-el-elementor-event-slideshow.php:671
+#: templates/pdf/template.php:42 templates/vendor/tickets.php:114
+#: includes/admin/views/metaboxes/metabox-ticket.php:72
+msgid "Venue"
+msgstr ""
+
+#: includes/ticket/class-el-column-ticket-manager.php:99
+msgid "Venue & Address"
+msgstr ""
+
+#: templates/elementor/search_map.php:152
+#: templates/elementor/search_form.php:122 templates/search/search-form.php:113
+#: templates/search/search-map.php:147
+msgid "Venue ..."
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:221
+#: includes/admin/views/metaboxes/_basic.php:153
+msgid "Venue Name:"
+msgstr ""
+
+#: templates/archive-venue.php:54
+msgid "Venue not found"
+msgstr ""
+
+#: includes/class-el-post-types.php:200
+msgctxt "Venue Slug"
+msgid "venue"
+msgstr ""
+
+#: includes/ticket/class-el-column-ticket-manager.php:59
+#: includes/email/el-mail-functions.php:161 templates/vendor/tickets.php:225
+msgid "Venue: "
+msgstr ""
+
+#: includes/class-el-post-types.php:161
+msgid "Venues"
+msgstr ""
+
+#: includes/class-el-post-types.php:184
+msgid "Venues list"
+msgstr ""
+
+#: includes/class-el-post-types.php:183
+msgid "Venues navigation"
+msgstr ""
+
+#: templates/single/video.php:8 templates/vendor/__edit-event-gallery.php:56
+msgid "Video"
+msgstr ""
+
+#: includes/el-core-functions.php:276
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:181
+msgid "View"
+msgstr ""
+
+#: includes/class-el-post-types.php:324
+msgid "View booking"
+msgstr ""
+
+#: includes/class-el-post-types.php:325
+msgid "View bookings"
+msgstr ""
+
+#: includes/class-el-post-types.php:116
+msgid "View event"
+msgstr ""
+
+#: includes/class-el-post-types.php:117
+msgid "View events"
+msgstr ""
+
+#: includes/class-el-post-types.php:273
+msgid "View membership"
+msgstr ""
+
+#: includes/class-el-post-types.php:274
+msgid "View memberships"
+msgstr ""
+
+#: includes/class-el-post-types.php:222
+msgid "View package"
+msgstr ""
+
+#: includes/class-el-post-types.php:223
+msgid "View packages"
+msgstr ""
+
+#: includes/class-el-post-types.php:375
+msgid "View ticket"
+msgstr ""
+
+#: includes/class-el-post-types.php:376
+msgid "View tickets"
+msgstr ""
+
+#: includes/class-el-post-types.php:170
+msgid "View venue"
+msgstr ""
+
+#: includes/class-el-post-types.php:171
+msgid "View venues"
+msgstr ""
+
+#: includes/el-core-functions.php:544
+msgid "Vimeo"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:30
+msgid "W"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-button-create-event.php:75
+msgid "Warning"
+msgstr ""
+
+#: templates/cart/ticket_type.php:261
+msgid "We are working this feature"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:209
+#: includes/admin/views/metaboxes/_calendar.php:177
+msgid "Wed"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:179
+msgid "Wednesday"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:196
+#: includes/admin/views/metaboxes/_calendar.php:164
+msgid "week on"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:186
+#: includes/admin/views/metaboxes/_calendar.php:154
+msgid "Weekly"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:197
+#: includes/admin/views/metaboxes/_calendar.php:165
+msgid "weeks on"
+msgstr ""
+
+#: includes/el-core-functions.php:281
+msgid "West African CFA franc"
+msgstr ""
+
+#: templates/elementor/search_map.php:71 templates/search/search-map.php:66
+msgid "What are you looking for?"
+msgstr ""
+
+#: templates/vendor/__edit-event-basic.php:223
+#: includes/admin/views/metaboxes/_basic.php:155
+msgid "White Palace"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-name-event-slider.php:126
+msgid "Width"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-category-event.php:155
+msgid "Width Image"
+msgstr ""
+
+#: templates/vendor/profile.php:118
+msgid "William Smith"
+msgstr ""
+
+#: includes/booking/class-el-booking.php:652
+msgid "Woo"
+msgstr ""
+
+#: includes/gateways/woo/class-el-payment-woo.php:13
+#: includes/gateways/woo/class-el-payment-woo.php:159
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/el-core-functions.php:541
+msgid "Wordpress"
+msgstr ""
+
+#: includes/api/vendor/firebase/php-jwt/src/JWT.php:79
+msgid "Wrong number of segments"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:31
+msgid "X"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:265
+#: includes/admin/class-el-admin-ajax.php:650
+#: includes/admin/class-el-admin-ajax.php:716
+#: includes/admin/class-el-admin-ajax.php:850
+#: templates/vendor/__edit-event-calendar.php:328
+#: templates/vendor/__edit-event-ticket.php:368
+#: templates/vendor/__edit-event-ticket.php:642
+#: templates/vendor/__edit-event-ticket.php:717
+#: templates/vendor/__edit-event-ticket.php:762
+#: templates/vendor/__edit-event-basic.php:333
+#: includes/admin/views/metaboxes/_basic.php:117
+#: includes/admin/views/metaboxes/_ticket.php:329
+#: includes/admin/views/metaboxes/_ticket.php:610
+#: includes/admin/views/metaboxes/_ticket.php:682
+#: includes/admin/views/metaboxes/_ticket.php:727
+#: includes/admin/views/metaboxes/_calendar.php:295
+msgid "x"
+msgstr ""
+
+#: includes/setting/class-el-setting-tax.php:79
+msgid "X Day"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:32
+msgid "Y"
+msgstr ""
+
+#: templates/vendor/manage_event.php:121 templates/vendor/general.php:72
+#: includes/admin/views/settings/report_sales.php:172
+#: includes/admin/views/settings/report_user.php:173
+msgid "Year"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:200
+#: includes/admin/views/metaboxes/_calendar.php:168
+msgid "year"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:188
+#: includes/admin/views/metaboxes/_calendar.php:156
+msgid "Yearly"
+msgstr ""
+
+#: templates/vendor/__edit-event-calendar.php:201
+#: includes/admin/views/metaboxes/_calendar.php:169
+msgid "years"
+msgstr ""
+
+#: includes/el-core-functions.php:283
+msgid "Yemeni rial"
+msgstr ""
+
+#: includes/admin/class-el-admin-ajax.php:589
+#: includes/elementor/class-el-elementor-category-event.php:124
+#: includes/elementor/class-el-elementor-event-slider.php:184
+#: includes/elementor/class-el-elementor-event-slider.php:199
+#: includes/elementor/class-el-elementor-event-slider.php:213
+#: includes/elementor/class-el-elementor-location-event.php:78
+#: includes/elementor/class-el-elementor-location-event.php:158
+#: includes/elementor/class-el-elementor-location-event.php:173
+#: includes/elementor/class-el-elementor-location-event.php:187
+#: includes/elementor/class-el-elementor-event-slideshow.php:200
+#: includes/elementor/class-el-elementor-event-slideshow.php:1027
+#: includes/setting/class-el-setting-mail.php:79
+#: includes/setting/class-el-setting-mail.php:238
+#: includes/setting/class-el-setting-mail.php:333
+#: includes/setting/class-el-setting-mail.php:548
+#: includes/setting/class-el-setting-mail.php:652
+#: includes/setting/class-el-setting-package.php:50
+#: includes/setting/class-el-setting-tax.php:50
+#: includes/setting/class-el-setting-general.php:194
+#: includes/setting/class-el-setting-general.php:206
+#: includes/setting/class-el-setting-general.php:225
+#: includes/setting/class-el-setting-general.php:236
+#: includes/setting/class-el-setting-event.php:219
+#: includes/setting/class-el-setting-event.php:256
+#: includes/setting/class-el-setting-event.php:268
+#: includes/setting/class-el-setting-event.php:280
+#: templates/vendor/__edit-event-ticket.php:430
+#: templates/vendor/__edit-event-cancel-booking.php:18
+#: includes/gateways/free/class-el-payment-free.php:32
+#: includes/gateways/free/class-el-payment-free.php:46
+#: includes/gateways/woo/class-el-payment-woo.php:174
+#: includes/gateways/offline/class-el-payment-offline.php:32
+#: includes/gateways/offline/class-el-payment-offline.php:45
+#: includes/admin/views/metaboxes/metabox-package.php:61
+#: includes/admin/views/metaboxes/metabox-package.php:73
+#: includes/admin/views/metaboxes/metabox-package.php:86
+#: includes/admin/views/metaboxes/metabox-package.php:98
+#: includes/admin/views/metaboxes/metabox-package.php:110
+#: includes/admin/views/metaboxes/_basic.php:55
+#: includes/admin/views/metaboxes/_cancel.php:14
+#: includes/admin/views/metaboxes/_ticket.php:398
+msgid "Yes"
+msgstr ""
+
+#: includes/setting/class-el-setting-general.php:122
+msgid ""
+"You can make a API Key Map <a target=\"_blank\" href=\"https://developers."
+"google.com/maps/documentation/javascript/get-api-key\">here</a>"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:568
+msgid "You can setup 86400 to send 1 time per day"
+msgstr ""
+
+#: templates/shortcode/my_wishlist.php:54
+msgid "You don't have any event in wishlist."
+msgstr ""
+
+#: includes/vendor/class-el-vendor.php:103 templates/vendor/edit-event.php:116
+msgid "You don't have permission add new event"
+msgstr ""
+
+#: includes/ticket/class-el-ticket.php:381
+msgid "You don't have permission to check qr code"
+msgstr ""
+
+#: templates/vendor/error.php:6
+msgid "You don't have permission to check this section"
+msgstr ""
+
+#: templates/vendor/bookings.php:15
+msgid "You don't have permission view bookings"
+msgstr ""
+
+#: templates/vendor/tickets.php:17 templates/vendor/manage_event.php:20
+msgid "You don't have permission view tickets"
+msgstr ""
+
+#: templates/global/breadcrumb.php:107
+msgid "You got it Error 404 not Found"
+msgstr ""
+
+#: includes/gateways/woo/class-el-payment-woo.php:166
+#: includes/gateways/offline/class-el-payment-offline.php:24
+msgid "You have to active to use this gateway"
+msgstr ""
+
+#: includes/gateways/free/class-el-payment-free.php:24
+msgid ""
+"You have to active to use this gateway. <br/>Note only displays when booking "
+"a free ticket"
+msgstr ""
+
+#: includes/class-el-ajax.php:1570
+msgid "You have to login"
+msgstr ""
+
+#: includes/gateways/offline/class-el-payment-offline.php:57
+msgid ""
+"You have to transfer money to my bank after booking event successfully, then "
+"I will send Ticket to your email. For purpose test: we still send ticket "
+"although you don't transfer money. Administrator can change this option in "
+"backend."
+msgstr ""
+
+#: includes/email/el-mail-functions.php:429
+msgid "You registered event: [el_event_name] at [el_event_start_time]"
+msgstr ""
+
+#: templates/vendor/edit-event.php:111
+msgid ""
+"You should upgrade to high package because your current package is limit "
+"number events"
+msgstr ""
+
+#: includes/setting/class-el-setting-mail.php:400
+msgid "You will see subject in list mail"
+msgstr ""
+
+#: templates/vendor/profile.php:246
+msgid "Your Bank Account"
+msgstr ""
+
+#: templates/vendor/_package_content.php:136
+msgid "Your current package"
+msgstr ""
+
+#: templates/vendor/_package_table_user_res.php:6
+msgid "Your package"
+msgstr ""
+
+#: includes/vendor/class-el-vendor.php:98 templates/vendor/edit-event.php:112
+msgid "Your package time is expired"
+msgstr ""
+
+#: templates/vendor/profile.php:281
+msgid "Your Paypal Account"
+msgstr ""
+
+#: templates/vendor/profile.php:289
+msgid "Your Stripe Account"
+msgstr ""
+
+#: includes/el-core-functions.php:548
+msgid "Youtube"
+msgstr ""
+
+#: templates/venue/filter_first_letter.php:33
+msgid "Z"
+msgstr ""
+
+#: templates/elementor/search_map.php:266 templates/search/search-map.php:282
+msgid "Z-A"
+msgstr ""
+
+#: includes/el-core-functions.php:285
+msgid "Zambian kwacha"
+msgstr ""
+
+#: includes/elementor/class-el-elementor-search-map.php:114
+msgid "Zoom Map"
+msgstr ""
+
+#: includes/setting/class-el-setting-event.php:239
+msgid "Zoom Map event detail"
+msgstr ""
